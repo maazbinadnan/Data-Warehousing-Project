@@ -1,0 +1,1002 @@
+name,studentERP,graduating_year,gender,department_name,degree_name,degree_level
+William Banks,22000.0,2017.0,Male,Biology,Business Administration,Undergraduate
+Charles Clarke,22001.0,2023.0,Female,Physics,Economics,Undergraduate
+David Sutton,22002.0,2009.0,Female,Social Sciences,Computer Science,Graduate
+Justin Carr,22003.0,2010.0,Male,Business Administration,Social Sciences,Graduate
+Austin Ramos,22004.0,2006.0,Female,Business Administration,Chemistry,Undergraduate
+Victoria Garcia,22005.0,2010.0,Female,Mathematics,Electrical Engineering,Graduate
+April Horton,22006.0,2014.0,Female,Physics,Finance,Undergraduate
+Nicole Pope,22007.0,2025.0,Male,Physics,Electrical Engineering,Graduate
+Stanley Oconnell,22008.0,2003.0,Female,Computer Science,Physics,Undergraduate
+Elizabeth Allen,22009.0,2026.0,Female,Biology,Accounting and Finance,Undergraduate
+Erin Callahan,22010.0,2005.0,Female,Biology,Economics,Undergraduate
+Miss Tiffany Harris,22011.0,2023.0,Female,Biology,Business Administration,Undergraduate
+Karen Sullivan,22012.0,2005.0,Male,Chemistry,Electrical Engineering,Graduate
+Brittany Williams,22013.0,2021.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Amy Wallace,22014.0,2016.0,Female,Physics,Finance,Undergraduate
+Lauren Jacobson,22015.0,2008.0,Female,Mathematics,Computer Science,Graduate
+Whitney Rhodes,22016.0,2022.0,Male,Mathematics,Physics,Undergraduate
+Ronald Palmer,22017.0,2011.0,Female,Finance,Social Sciences,Graduate
+Karen Donaldson,22018.0,2004.0,Female,Social Sciences,Economics,Undergraduate
+Andrew Landry,22019.0,2025.0,Male,Biology,Business Administration,Undergraduate
+Lindsay Adams,22020.0,2013.0,Male,Business Administration,Chemistry,Undergraduate
+Jessica Hughes,22021.0,2017.0,Female,Chemistry,Computer Science,Graduate
+Adam Gallegos,22022.0,2026.0,Female,Economics,Accounting and Finance,Undergraduate
+Jamie Gordon,22023.0,2003.0,Female,Biology,Accounting and Finance,Undergraduate
+Victoria Boyd,22024.0,2014.0,Female,Social Sciences,Computer Science,Graduate
+Gabriela Thompson,22025.0,2025.0,Male,Biology,Accounting and Finance,Undergraduate
+Lisa Jones,22026.0,2012.0,Male,Finance,BioChem,Undergraduate
+Chelsea Garcia,22027.0,2018.0,Female,Economics,BioChem,Undergraduate
+Bradley Clark,22028.0,2015.0,Female,Physics,Business Administration,Undergraduate
+Sharon Jackson,22029.0,2015.0,Male,Chemistry,Social Sciences,Graduate
+Tracey Hansen,22030.0,2026.0,Male,Biology,Computer Science,Graduate
+Francis White,22031.0,2022.0,Female,Social Sciences,Physics,Undergraduate
+Casey Mcclure,22032.0,2021.0,Female,Biology,Engineering,Graduate
+Victoria Miller,22033.0,2016.0,Male,Biology,Engineering,Graduate
+Manuel Foster,22034.0,2025.0,Male,Biology,Electrical Engineering,Graduate
+Shane Mendez,22035.0,2008.0,Male,Mathematics,Business Administration,Undergraduate
+Crystal Miller,22036.0,2025.0,Female,Mathematics,Economics,Undergraduate
+Heather Banks,22037.0,2003.0,Male,Business Administration,Engineering,Graduate
+Ryan Baker,22038.0,2006.0,Male,Economics,Physics,Undergraduate
+Thomas Martinez,22039.0,2020.0,Female,Biology,Physics,Undergraduate
+Adam Gutierrez,22040.0,2018.0,Male,Economics,BioChem,Undergraduate
+Virginia Black,22041.0,2015.0,Female,Finance,Pharmacy,Undergraduate
+Erica Bryant,22042.0,2015.0,Male,Biology,Electrical Engineering,Graduate
+Lori Mccullough,22043.0,2006.0,Female,Biology,Physics,Undergraduate
+Joel Pitts,22044.0,2011.0,Male,Mathematics,Business Administration,Undergraduate
+Barbara Huff,22045.0,2022.0,Female,Business Administration,BioChem,Undergraduate
+Danny Johnson,22046.0,2009.0,Female,Computer Science,Physics,Undergraduate
+Debra Zavala,22047.0,2009.0,Male,Chemistry,Physics,Undergraduate
+Jeffery Johnson Jr.,22048.0,2027.0,Male,Biology,Finance,Undergraduate
+Frank Padilla,22049.0,2008.0,Male,Chemistry,Finance,Undergraduate
+Glenda Schroeder,22050.0,2013.0,Female,Chemistry,Finance,Undergraduate
+Emily Smith,22051.0,2015.0,Female,Social Sciences,Finance,Undergraduate
+Stephen Wilson,22052.0,2020.0,Female,Biology,Finance,Undergraduate
+Natasha Kim,22053.0,2009.0,Male,Biology,Electrical Engineering,Graduate
+Cody Molina,22054.0,2009.0,Female,Business Administration,Physics,Undergraduate
+Carrie Crawford,22055.0,2016.0,Female,Chemistry,Electrical Engineering,Graduate
+Douglas Rodriguez,22056.0,2022.0,Female,Social Sciences,Accounting and Finance,Undergraduate
+Mary Montes,22057.0,2012.0,Male,Computer Science,Electrical Engineering,Graduate
+Tonya Williams,22058.0,2017.0,Female,Finance,Engineering,Graduate
+Jessica Ali,22059.0,2005.0,Male,Finance,Mathematics,Graduate
+Richard Santiago,22060.0,2023.0,Male,Biology,Finance,Undergraduate
+Sheila Castro,22061.0,2024.0,Female,Biology,Accounting and Finance,Undergraduate
+Andrew Torres,22062.0,2004.0,Male,Chemistry,Engineering,Graduate
+Robert Rosario,22063.0,2019.0,Male,Biology,Computer Science,Graduate
+William Holmes,22064.0,2014.0,Female,Economics,Mathematics,Graduate
+Bryan Mason,22065.0,2011.0,Male,Finance,Mathematics,Graduate
+Christine Nolan,22066.0,2010.0,Male,Biology,Chemistry,Undergraduate
+Amanda Castaneda,22067.0,2022.0,Female,Social Sciences,Pharmacy,Undergraduate
+Victoria Ruiz,22068.0,2026.0,Male,Finance,BioChem,Undergraduate
+James Robinson,22069.0,2025.0,Male,Chemistry,Mathematics,Graduate
+Michael Elliott,22070.0,2015.0,Male,Biology,Economics,Undergraduate
+Ruth Campbell,22071.0,2021.0,Male,Biology,BioChem,Undergraduate
+David Murray,22072.0,2008.0,Female,Social Sciences,Economics,Undergraduate
+Susan Torres,22073.0,2012.0,Male,Mathematics,Social Sciences,Graduate
+Lee Lopez,22074.0,2021.0,Female,Business Administration,Chemistry,Undergraduate
+Billy Morris,22075.0,2010.0,Female,Mathematics,BioChem,Undergraduate
+Travis White,22076.0,2023.0,Female,Physics,Social Sciences,Graduate
+Taylor Christensen,22077.0,2007.0,Female,Mathematics,Electrical Engineering,Graduate
+Eric Robinson,22078.0,2003.0,Female,Business Administration,Physics,Undergraduate
+David Long,22079.0,2010.0,Male,Chemistry,Electrical Engineering,Graduate
+Kayla Williams,22080.0,2016.0,Male,Social Sciences,Engineering,Graduate
+Steven Spence,22081.0,2015.0,Male,Business Administration,Pharmacy,Undergraduate
+Shelby Smith,22082.0,2005.0,Female,Physics,Finance,Undergraduate
+Cynthia Rhodes,22083.0,2014.0,Female,Finance,Engineering,Graduate
+Michael Crawford,22084.0,2003.0,Female,Business Administration,Economics,Undergraduate
+Mary Frank,22085.0,2017.0,Male,Social Sciences,BioChem,Undergraduate
+Thomas Yates,22086.0,2023.0,Male,Computer Science,Pharmacy,Undergraduate
+Samantha Taylor,22087.0,2025.0,Female,Economics,Economics,Undergraduate
+Steven Lee,22088.0,2024.0,Male,Finance,Pharmacy,Undergraduate
+Jamie Huber,22089.0,2006.0,Male,Chemistry,Chemistry,Undergraduate
+Nancy Williamson,22090.0,2011.0,Female,Social Sciences,Finance,Undergraduate
+Kimberly Ward,22091.0,2008.0,Male,Business Administration,Pharmacy,Undergraduate
+Alexis Steele,22092.0,2004.0,Female,Biology,Social Sciences,Graduate
+Michael Matthews,22093.0,2017.0,Male,Mathematics,Pharmacy,Undergraduate
+Samuel Lawrence,22094.0,2013.0,Female,Chemistry,Mathematics,Graduate
+Kelsey Brock,22095.0,2010.0,Male,Economics,Economics,Undergraduate
+Lori Chandler,22096.0,2027.0,Male,Economics,Finance,Undergraduate
+Ryan Harris,22097.0,2007.0,Female,Computer Science,Accounting and Finance,Undergraduate
+John Nichols,22098.0,2016.0,Female,Finance,Finance,Undergraduate
+Hannah Dennis,22099.0,2011.0,Female,Social Sciences,Finance,Undergraduate
+Joshua White,22100.0,2011.0,Female,Economics,Finance,Undergraduate
+Donald Robertson,22101.0,2012.0,Female,Computer Science,Economics,Undergraduate
+Tina Shaffer,22102.0,2019.0,Male,Business Administration,Pharmacy,Undergraduate
+Greg Weiss,22103.0,2023.0,Male,Chemistry,Economics,Undergraduate
+Charles Buck,22104.0,2016.0,Male,Mathematics,Accounting and Finance,Undergraduate
+Meredith Fischer,22105.0,2023.0,Female,Finance,Computer Science,Graduate
+Sheri Hernandez,22106.0,2016.0,Male,Mathematics,Economics,Undergraduate
+David Martin,22107.0,2026.0,Female,Economics,Electrical Engineering,Graduate
+Tracey Miller DDS,22108.0,2013.0,Male,Social Sciences,Physics,Undergraduate
+Jessica Patel,22109.0,2010.0,Male,Physics,Chemistry,Undergraduate
+Kimberly Holland,22110.0,2012.0,Female,Mathematics,Business Administration,Undergraduate
+Michael Haynes,22111.0,2027.0,Male,Chemistry,Economics,Undergraduate
+Jermaine Lamb,22112.0,2006.0,Male,Economics,Physics,Undergraduate
+Brian Chase,22113.0,2018.0,Male,Physics,Mathematics,Graduate
+Victor Leon,22114.0,2023.0,Female,Economics,Business Administration,Undergraduate
+Jessica Barber,22115.0,2016.0,Female,Biology,Computer Science,Graduate
+Danielle Huynh,22116.0,2023.0,Male,Biology,Finance,Undergraduate
+Alicia Mcpherson,22117.0,2026.0,Female,Social Sciences,Computer Science,Graduate
+Amy Black,22118.0,2027.0,Female,Finance,Business Administration,Undergraduate
+Christina Silva,22119.0,2023.0,Female,Chemistry,Electrical Engineering,Graduate
+Gary Webster,22120.0,2010.0,Male,Biology,BioChem,Undergraduate
+Shawn Stevens,22121.0,2017.0,Male,Chemistry,Business Administration,Undergraduate
+Mathew Figueroa,22122.0,2009.0,Female,Biology,Pharmacy,Undergraduate
+Mary Mason,22123.0,2027.0,Female,Economics,Mathematics,Graduate
+Lisa Bennett,22124.0,2027.0,Female,Chemistry,Finance,Undergraduate
+Nicholas Graham,22125.0,2016.0,Female,Chemistry,Electrical Engineering,Graduate
+Thomas Guerra,22126.0,2002.0,Female,Economics,Economics,Undergraduate
+Richard Martin,22127.0,2005.0,Female,Biology,Physics,Undergraduate
+Donna Bird,22128.0,2006.0,Male,Physics,Electrical Engineering,Graduate
+Martin Willis,22129.0,2020.0,Male,Economics,Mathematics,Graduate
+Kelly Johnson,22130.0,2024.0,Male,Mathematics,Economics,Undergraduate
+Charles Rose,22131.0,2020.0,Female,Finance,Pharmacy,Undergraduate
+Mrs. Rachel Hunt,22132.0,2022.0,Female,Chemistry,BioChem,Undergraduate
+Tammy York,22133.0,2023.0,Female,Social Sciences,Business Administration,Undergraduate
+Greg Rivera,22134.0,2012.0,Male,Physics,Finance,Undergraduate
+Terri York,22135.0,2014.0,Female,Physics,Electrical Engineering,Graduate
+Mr. Steven Kennedy,22136.0,2005.0,Female,Social Sciences,Physics,Undergraduate
+Lisa Holland,22137.0,2027.0,Female,Biology,Social Sciences,Graduate
+Christine Pena,22138.0,2007.0,Female,Finance,BioChem,Undergraduate
+Charles Hill,22139.0,2023.0,Female,Physics,Chemistry,Undergraduate
+Tamara Tucker,22140.0,2005.0,Male,Chemistry,Computer Science,Graduate
+George Rodgers,22141.0,2025.0,Female,Computer Science,Finance,Undergraduate
+Mariah Jones,22142.0,2011.0,Male,Social Sciences,Finance,Undergraduate
+Danielle Smith,22143.0,2016.0,Male,Business Administration,Accounting and Finance,Undergraduate
+Sarah Reyes,22144.0,2022.0,Female,Biology,BioChem,Undergraduate
+Donna Hubbard,22145.0,2025.0,Female,Physics,Engineering,Graduate
+Sean Garner,22146.0,2015.0,Male,Mathematics,Business Administration,Undergraduate
+Tyler Carter,22147.0,2025.0,Male,Finance,Accounting and Finance,Undergraduate
+Maria Valdez,22148.0,2016.0,Male,Economics,Finance,Undergraduate
+Benjamin Gonzalez II,22149.0,2004.0,Male,Economics,Social Sciences,Graduate
+Cheryl Padilla,22150.0,2023.0,Female,Biology,Accounting and Finance,Undergraduate
+Paul Martinez,22151.0,2014.0,Female,Social Sciences,Finance,Undergraduate
+Julie Taylor,22152.0,2015.0,Male,Chemistry,Pharmacy,Undergraduate
+Jose George,22153.0,2012.0,Female,Chemistry,Business Administration,Undergraduate
+Timothy Davis,22154.0,2010.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Ellen Bryant,22155.0,2006.0,Male,Chemistry,Economics,Undergraduate
+Anthony Ponce,22156.0,2016.0,Female,Biology,Business Administration,Undergraduate
+Brian Smith,22157.0,2007.0,Female,Social Sciences,Business Administration,Undergraduate
+James Sandoval,22158.0,2010.0,Female,Physics,Business Administration,Undergraduate
+Robin Rogers,22159.0,2011.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Jennifer Patton,22160.0,2007.0,Male,Business Administration,Electrical Engineering,Graduate
+Andrea Wong,22161.0,2009.0,Male,Physics,Accounting and Finance,Undergraduate
+Dale Miller,22162.0,2025.0,Male,Social Sciences,Mathematics,Graduate
+Kevin Norris,22163.0,2003.0,Male,Physics,Engineering,Graduate
+Christopher Moore,22164.0,2018.0,Male,Finance,Chemistry,Undergraduate
+Melanie Johnson,22165.0,2026.0,Female,Biology,Social Sciences,Graduate
+Joseph Kim,22166.0,2019.0,Male,Computer Science,Engineering,Graduate
+Kathleen Burns,22167.0,2016.0,Male,Business Administration,Accounting and Finance,Undergraduate
+Suzanne Williams,22168.0,2013.0,Female,Business Administration,BioChem,Undergraduate
+Amanda Fuentes,22169.0,2019.0,Male,Computer Science,Electrical Engineering,Graduate
+David Reed,22170.0,2021.0,Male,Biology,Social Sciences,Graduate
+Tammy Tate,22171.0,2018.0,Female,Biology,Social Sciences,Graduate
+Laura Rhodes,22172.0,2014.0,Male,Business Administration,Engineering,Graduate
+Jennifer Davis,22173.0,2025.0,Male,Biology,BioChem,Undergraduate
+Nathan Black,22174.0,2016.0,Male,Finance,Chemistry,Undergraduate
+Kenneth Lin,22175.0,2023.0,Female,Social Sciences,Physics,Undergraduate
+Daniel Chapman,22176.0,2017.0,Male,Economics,Social Sciences,Graduate
+Adrian Roberts,22177.0,2022.0,Male,Economics,Engineering,Graduate
+Colleen James,22178.0,2009.0,Female,Physics,BioChem,Undergraduate
+Cory Cummings,22179.0,2020.0,Male,Business Administration,Engineering,Graduate
+Sheryl Johnson,22180.0,2021.0,Female,Economics,Economics,Undergraduate
+Kristina Brown,22181.0,2016.0,Male,Mathematics,Computer Science,Graduate
+Kenneth Gibson,22182.0,2024.0,Female,Physics,Economics,Undergraduate
+Joshua Wilson,22183.0,2018.0,Female,Chemistry,Social Sciences,Graduate
+Brian Bauer,22184.0,2003.0,Male,Finance,Physics,Undergraduate
+Jessica Weaver,22185.0,2026.0,Female,Social Sciences,BioChem,Undergraduate
+Andrew King,22186.0,2007.0,Female,Business Administration,Economics,Undergraduate
+Scott Patterson,22187.0,2007.0,Female,Finance,Accounting and Finance,Undergraduate
+Lynn Black,22188.0,2020.0,Female,Biology,Economics,Undergraduate
+Brittany Rodriguez,22189.0,2008.0,Female,Business Administration,Pharmacy,Undergraduate
+Raymond Baxter,22190.0,2014.0,Female,Finance,Economics,Undergraduate
+Tyler Joseph,22191.0,2009.0,Female,Finance,Electrical Engineering,Graduate
+April Wood,22192.0,2015.0,Male,Finance,Pharmacy,Undergraduate
+Donna Ewing,22193.0,2015.0,Female,Finance,Chemistry,Undergraduate
+Eduardo Strong,22194.0,2005.0,Female,Business Administration,Business Administration,Undergraduate
+Thomas Meadows,22195.0,2007.0,Male,Biology,BioChem,Undergraduate
+Mary Smith,22196.0,2019.0,Male,Mathematics,Mathematics,Graduate
+William Roberts,22197.0,2026.0,Female,Biology,Pharmacy,Undergraduate
+Amber Velasquez,22198.0,2008.0,Male,Biology,Finance,Undergraduate
+Richard Arnold,22199.0,2014.0,Male,Mathematics,Physics,Undergraduate
+Melissa Winters,22200.0,2007.0,Male,Biology,Mathematics,Graduate
+Daniel Francis,22201.0,2010.0,Female,Computer Science,Computer Science,Graduate
+Douglas Garrison,22202.0,2009.0,Male,Chemistry,Physics,Undergraduate
+Crystal Fox,22203.0,2024.0,Female,Chemistry,Finance,Undergraduate
+Garrett Lindsey,22204.0,2008.0,Male,Physics,Economics,Undergraduate
+Brian Reed,22205.0,2020.0,Male,Finance,Business Administration,Undergraduate
+Ryan Schmitt,22206.0,2023.0,Male,Chemistry,Mathematics,Graduate
+Todd Martin,22207.0,2007.0,Female,Physics,Pharmacy,Undergraduate
+Kathy David,22208.0,2013.0,Female,Biology,Computer Science,Graduate
+Chelsea Howard DDS,22209.0,2012.0,Female,Chemistry,Pharmacy,Undergraduate
+Angela Moss,22210.0,2007.0,Female,Biology,Social Sciences,Graduate
+Michael Weber,22211.0,2026.0,Male,Social Sciences,Electrical Engineering,Graduate
+James Myers,22212.0,2024.0,Female,Business Administration,Computer Science,Graduate
+Rhonda King,22213.0,2015.0,Female,Social Sciences,Computer Science,Graduate
+Gabriel Harding,22214.0,2021.0,Male,Social Sciences,BioChem,Undergraduate
+John Wood,22215.0,2018.0,Female,Physics,Engineering,Graduate
+Lauren Davis,22216.0,2025.0,Male,Biology,Pharmacy,Undergraduate
+Jodi Estrada,22217.0,2006.0,Female,Social Sciences,Accounting and Finance,Undergraduate
+Monica Gonzalez PhD,22218.0,2015.0,Male,Mathematics,BioChem,Undergraduate
+Melissa Cordova,22219.0,2023.0,Female,Biology,BioChem,Undergraduate
+Michelle Reed,22220.0,2005.0,Male,Chemistry,Computer Science,Graduate
+Matthew Cooper,22221.0,2025.0,Male,Mathematics,Social Sciences,Graduate
+Andrew Jenkins,22222.0,2015.0,Male,Social Sciences,Physics,Undergraduate
+Amy Henderson,22223.0,2014.0,Male,Chemistry,Electrical Engineering,Graduate
+Natasha Jackson,22224.0,2008.0,Male,Business Administration,BioChem,Undergraduate
+Adam Hernandez,22225.0,2015.0,Male,Physics,Accounting and Finance,Undergraduate
+Mark Jones,22226.0,2010.0,Male,Business Administration,Engineering,Graduate
+Joseph Tate,22227.0,2019.0,Male,Economics,Physics,Undergraduate
+Richard Yang,22228.0,2024.0,Female,Economics,Social Sciences,Graduate
+Michael Hall,22229.0,2004.0,Male,Computer Science,BioChem,Undergraduate
+Danielle Watson,22230.0,2005.0,Male,Biology,Engineering,Graduate
+Bradley Stevens,22231.0,2003.0,Female,Business Administration,Business Administration,Undergraduate
+Melinda Lee,22232.0,2016.0,Female,Biology,Mathematics,Graduate
+Jesse Leonard MD,22233.0,2024.0,Female,Computer Science,Chemistry,Undergraduate
+Victoria Salazar,22234.0,2018.0,Female,Business Administration,Physics,Undergraduate
+Faith Clarke,22235.0,2023.0,Male,Social Sciences,Social Sciences,Graduate
+Christina Bowers,22236.0,2010.0,Female,Finance,Mathematics,Graduate
+Vincent Jackson,22237.0,2019.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Timothy Hays,22238.0,2016.0,Male,Economics,Economics,Undergraduate
+Brian Houston,22239.0,2013.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Dr. Lauren Spears,22240.0,2022.0,Female,Biology,Physics,Undergraduate
+Steven Hodges,22241.0,2012.0,Female,Economics,Social Sciences,Graduate
+Marc Simpson,22242.0,2020.0,Male,Business Administration,Pharmacy,Undergraduate
+Sarah Hall,22243.0,2003.0,Female,Finance,Economics,Undergraduate
+Benjamin Richardson,22244.0,2015.0,Male,Social Sciences,Electrical Engineering,Graduate
+Colton Potter,22245.0,2006.0,Male,Mathematics,Computer Science,Graduate
+Angela Williams,22246.0,2012.0,Male,Mathematics,Social Sciences,Graduate
+Omar Malone,22247.0,2025.0,Female,Mathematics,Physics,Undergraduate
+David Flores,22248.0,2008.0,Male,Mathematics,Social Sciences,Graduate
+William Johnson,22249.0,2004.0,Male,Computer Science,Mathematics,Graduate
+Jamie Rhodes,22250.0,2026.0,Male,Finance,Physics,Undergraduate
+Mary Carrillo,22251.0,2015.0,Female,Biology,Computer Science,Graduate
+Rodney Holloway,22252.0,2014.0,Male,Social Sciences,Economics,Undergraduate
+Brandon Jones,22253.0,2018.0,Female,Chemistry,Electrical Engineering,Graduate
+Madison Ford,22254.0,2005.0,Male,Business Administration,Chemistry,Undergraduate
+Katelyn Garrison,22255.0,2014.0,Male,Biology,BioChem,Undergraduate
+Richard Peters,22256.0,2017.0,Female,Biology,Social Sciences,Graduate
+William Lane,22257.0,2008.0,Female,Computer Science,Social Sciences,Graduate
+Kimberly Keller,22258.0,2021.0,Male,Economics,Electrical Engineering,Graduate
+Andrew Bennett,22259.0,2022.0,Male,Finance,Business Administration,Undergraduate
+Daniel Berry,22260.0,2023.0,Female,Chemistry,Computer Science,Graduate
+Dillon Walls,22261.0,2014.0,Female,Economics,Computer Science,Graduate
+Devin Campbell,22262.0,2006.0,Female,Physics,Accounting and Finance,Undergraduate
+Patricia Bush,22263.0,2018.0,Male,Biology,Mathematics,Graduate
+Daniel Carr,22264.0,2026.0,Female,Chemistry,Business Administration,Undergraduate
+Melissa Kim,22265.0,2023.0,Female,Economics,Electrical Engineering,Graduate
+Steven Esparza,22266.0,2007.0,Male,Mathematics,Engineering,Graduate
+Tracy Sloan,22267.0,2005.0,Female,Chemistry,Physics,Undergraduate
+Tiffany Young,22268.0,2013.0,Female,Mathematics,Business Administration,Undergraduate
+Johnny Hayes,22269.0,2005.0,Male,Computer Science,Accounting and Finance,Undergraduate
+Cody Morrison,22270.0,2008.0,Male,Finance,Computer Science,Graduate
+Roger Williams,22271.0,2026.0,Female,Business Administration,Business Administration,Undergraduate
+Tammy Long,22272.0,2018.0,Female,Physics,Physics,Undergraduate
+Mike Parker,22273.0,2017.0,Male,Business Administration,Finance,Undergraduate
+Earl Watson,22274.0,2012.0,Female,Finance,Computer Science,Graduate
+Shannon Harrison,22275.0,2027.0,Female,Physics,Finance,Undergraduate
+Jeremy Campbell,22276.0,2010.0,Female,Physics,Social Sciences,Graduate
+Erik Leonard,22277.0,2006.0,Male,Economics,BioChem,Undergraduate
+Jennifer Cross,22278.0,2009.0,Male,Social Sciences,Computer Science,Graduate
+William Wilson,22279.0,2020.0,Female,Biology,Chemistry,Undergraduate
+Jody Goodman,22280.0,2023.0,Female,Social Sciences,Chemistry,Undergraduate
+Connie Hoffman,22281.0,2002.0,Male,Computer Science,Economics,Undergraduate
+Shawna Baker,22282.0,2013.0,Female,Business Administration,Finance,Undergraduate
+Savannah Lewis,22283.0,2009.0,Male,Physics,Mathematics,Graduate
+Erica Stephens,22284.0,2017.0,Male,Social Sciences,Engineering,Graduate
+Julie Brown,22285.0,2013.0,Male,Finance,Mathematics,Graduate
+Kara Morgan,22286.0,2007.0,Male,Social Sciences,Finance,Undergraduate
+Jane Sweeney,22287.0,2016.0,Male,Computer Science,Social Sciences,Graduate
+Melissa Moore,22288.0,2015.0,Female,Chemistry,Social Sciences,Graduate
+Jerome Mitchell,22289.0,2011.0,Female,Business Administration,Accounting and Finance,Undergraduate
+Melissa Bishop MD,22290.0,2025.0,Male,Economics,Engineering,Graduate
+Ian Rogers,22291.0,2010.0,Female,Biology,Accounting and Finance,Undergraduate
+Samantha Cox,22292.0,2022.0,Male,Physics,Business Administration,Undergraduate
+Daniel Holden,22293.0,2025.0,Female,Business Administration,Engineering,Graduate
+Paige Gill,22294.0,2020.0,Female,Economics,BioChem,Undergraduate
+Bryan Williams,22295.0,2010.0,Female,Biology,BioChem,Undergraduate
+Karen Duran PhD,22296.0,2005.0,Female,Chemistry,Business Administration,Undergraduate
+Hannah Snow,22297.0,2011.0,Female,Economics,Electrical Engineering,Graduate
+Aaron Dominguez,22298.0,2011.0,Male,Social Sciences,Physics,Undergraduate
+John Martinez MD,22299.0,2016.0,Male,Computer Science,Business Administration,Undergraduate
+Benjamin Lewis,22300.0,2020.0,Female,Chemistry,Chemistry,Undergraduate
+Jimmy Simmons,22301.0,2013.0,Male,Mathematics,Finance,Undergraduate
+Melvin Le,22302.0,2026.0,Female,Social Sciences,Mathematics,Graduate
+Abigail Gordon,22303.0,2006.0,Male,Finance,Computer Science,Graduate
+Lindsey Molina,22304.0,2017.0,Male,Computer Science,Pharmacy,Undergraduate
+Jordan Cantu,22305.0,2026.0,Male,Biology,Accounting and Finance,Undergraduate
+David Orr,22306.0,2017.0,Female,Physics,Physics,Undergraduate
+Catherine Evans,22307.0,2025.0,Female,Mathematics,Chemistry,Undergraduate
+Ryan House,22308.0,2008.0,Male,Social Sciences,Chemistry,Undergraduate
+Dennis Perez,22309.0,2019.0,Male,Economics,Chemistry,Undergraduate
+Jennifer Roach,22310.0,2019.0,Male,Biology,Mathematics,Graduate
+Savannah Fuller,22311.0,2014.0,Female,Computer Science,Chemistry,Undergraduate
+Cynthia Fuller,22312.0,2014.0,Female,Economics,Business Administration,Undergraduate
+Lori Roach,22313.0,2005.0,Female,Biology,Pharmacy,Undergraduate
+Maureen Baker,22314.0,2015.0,Male,Business Administration,Electrical Engineering,Graduate
+Jenna Pacheco,22315.0,2015.0,Female,Mathematics,Finance,Undergraduate
+Eileen Whitney,22316.0,2013.0,Female,Social Sciences,Pharmacy,Undergraduate
+Zachary Thomas,22317.0,2016.0,Female,Business Administration,Physics,Undergraduate
+Michael Huerta,22318.0,2012.0,Male,Biology,Mathematics,Graduate
+Calvin Smith,22319.0,2004.0,Female,Finance,Social Sciences,Graduate
+Leslie Proctor,22320.0,2017.0,Female,Social Sciences,Finance,Undergraduate
+Nancy Hernandez,22321.0,2017.0,Female,Physics,Engineering,Graduate
+Joanna Jones,22322.0,2013.0,Male,Computer Science,Economics,Undergraduate
+Colleen Howard,22323.0,2024.0,Female,Computer Science,BioChem,Undergraduate
+Perry Clark,22324.0,2010.0,Male,Computer Science,Finance,Undergraduate
+Matthew Ochoa,22325.0,2006.0,Male,Social Sciences,Finance,Undergraduate
+Kelly Jordan,22326.0,2017.0,Female,Business Administration,Pharmacy,Undergraduate
+Kelly Dunn,22327.0,2021.0,Female,Biology,Physics,Undergraduate
+Marie Wilkerson,22328.0,2006.0,Male,Economics,Electrical Engineering,Graduate
+Christopher Smith,22329.0,2025.0,Female,Economics,Business Administration,Undergraduate
+Tasha Martinez,22330.0,2023.0,Female,Economics,Business Administration,Undergraduate
+Jason Kline,22331.0,2004.0,Female,Biology,Business Administration,Undergraduate
+Terry Nash,22332.0,2015.0,Female,Computer Science,Economics,Undergraduate
+Ronald Morales,22333.0,2015.0,Male,Economics,Physics,Undergraduate
+Christopher Hansen,22334.0,2007.0,Male,Biology,Pharmacy,Undergraduate
+Laura Perez,22335.0,2009.0,Female,Chemistry,Physics,Undergraduate
+Benjamin Harrison,22336.0,2012.0,Male,Social Sciences,Engineering,Graduate
+Christopher Williams,22337.0,2010.0,Female,Chemistry,BioChem,Undergraduate
+Tamara Miller,22338.0,2011.0,Male,Chemistry,Electrical Engineering,Graduate
+Gloria Edwards,22339.0,2014.0,Female,Social Sciences,Finance,Undergraduate
+Mark Vasquez,22340.0,2016.0,Female,Finance,Electrical Engineering,Graduate
+Susan Carlson,22341.0,2009.0,Male,Biology,Finance,Undergraduate
+Grace Jackson,22342.0,2020.0,Female,Social Sciences,Accounting and Finance,Undergraduate
+Dana Sanchez,22343.0,2010.0,Male,Computer Science,Physics,Undergraduate
+Randy Forbes,22344.0,2026.0,Female,Chemistry,Mathematics,Graduate
+Mr. Shawn Jones,22345.0,2012.0,Female,Chemistry,Business Administration,Undergraduate
+Erik Chavez,22346.0,2019.0,Male,Finance,Mathematics,Graduate
+Benjamin Elliott,22347.0,2008.0,Male,Biology,Computer Science,Graduate
+Mr. Edward Alvarez,22348.0,2022.0,Female,Finance,Finance,Undergraduate
+Anita Keith MD,22349.0,2008.0,Male,Chemistry,Business Administration,Undergraduate
+Lindsay Robinson,22350.0,2027.0,Male,Biology,Computer Science,Graduate
+Joseph Brown,22351.0,2010.0,Male,Economics,Engineering,Graduate
+Todd Jimenez,22352.0,2007.0,Female,Biology,Mathematics,Graduate
+Rebecca Collier,22353.0,2014.0,Male,Biology,Economics,Undergraduate
+Jessica Brown,22354.0,2014.0,Female,Biology,Electrical Engineering,Graduate
+Jeffrey Mercer,22355.0,2007.0,Female,Biology,Chemistry,Undergraduate
+Wendy Smith,22356.0,2005.0,Male,Economics,Social Sciences,Graduate
+Jason Shaw,22357.0,2018.0,Male,Mathematics,Accounting and Finance,Undergraduate
+Steven Anderson,22358.0,2009.0,Female,Mathematics,Social Sciences,Graduate
+Steven Collins MD,22359.0,2006.0,Male,Chemistry,Mathematics,Graduate
+Paul Adams,22360.0,2017.0,Female,Social Sciences,Economics,Undergraduate
+Kathy Murray,22361.0,2005.0,Female,Business Administration,Social Sciences,Graduate
+Andrew Benson,22362.0,2027.0,Female,Finance,Social Sciences,Graduate
+Erika Hess,22363.0,2014.0,Male,Chemistry,Electrical Engineering,Graduate
+Joshua Jenkins,22364.0,2020.0,Male,Chemistry,BioChem,Undergraduate
+Kelly Jenkins,22365.0,2013.0,Female,Physics,Accounting and Finance,Undergraduate
+Kelly Watts,22366.0,2006.0,Male,Business Administration,Engineering,Graduate
+Sarah Holland DDS,22367.0,2012.0,Female,Chemistry,Pharmacy,Undergraduate
+Paige Melton,22368.0,2023.0,Female,Mathematics,Social Sciences,Graduate
+Joshua Hill,22369.0,2004.0,Male,Economics,Business Administration,Undergraduate
+Jodi Smith,22370.0,2008.0,Female,Biology,Chemistry,Undergraduate
+Nathan Vance,22371.0,2002.0,Female,Biology,Economics,Undergraduate
+Edward Anderson,22372.0,2018.0,Male,Chemistry,Pharmacy,Undergraduate
+Nicholas Mcguire,22373.0,2009.0,Male,Social Sciences,Chemistry,Undergraduate
+Ronald Gray,22374.0,2006.0,Female,Computer Science,Engineering,Graduate
+Carolyn Rivera MD,22375.0,2019.0,Female,Biology,Accounting and Finance,Undergraduate
+Daniel Frey,22376.0,2021.0,Female,Finance,Chemistry,Undergraduate
+David Holt,22377.0,2016.0,Female,Physics,Chemistry,Undergraduate
+Tiffany Hill,22378.0,2004.0,Male,Mathematics,Computer Science,Graduate
+Stacey Mccann,22379.0,2024.0,Male,Economics,Social Sciences,Graduate
+Kevin Hess,22380.0,2019.0,Female,Finance,BioChem,Undergraduate
+Robert Dougherty,22381.0,2018.0,Male,Business Administration,Mathematics,Graduate
+Kimberly Keller,22382.0,2016.0,Male,Social Sciences,Economics,Undergraduate
+Alexander Pierce,22383.0,2027.0,Female,Chemistry,Mathematics,Graduate
+Rebecca Vasquez,22384.0,2012.0,Female,Economics,Economics,Undergraduate
+Daniel Harris,22385.0,2025.0,Male,Biology,Finance,Undergraduate
+Shannon Thompson,22386.0,2011.0,Male,Physics,Economics,Undergraduate
+Daniel Morales,22387.0,2023.0,Female,Computer Science,Accounting and Finance,Undergraduate
+Oscar Austin,22388.0,2005.0,Female,Business Administration,Finance,Undergraduate
+Jerry Wells,22389.0,2015.0,Male,Finance,Mathematics,Graduate
+Alejandro Holloway,22390.0,2015.0,Female,Computer Science,Pharmacy,Undergraduate
+Angela Nguyen,22391.0,2015.0,Male,Finance,Social Sciences,Graduate
+Christine Harrington,22392.0,2008.0,Female,Physics,Business Administration,Undergraduate
+Charles Downs,22393.0,2019.0,Male,Biology,Economics,Undergraduate
+Peter Ortega,22394.0,2008.0,Male,Chemistry,Mathematics,Graduate
+Kevin Moore,22395.0,2009.0,Female,Business Administration,Electrical Engineering,Graduate
+Jacqueline Hernandez,22396.0,2008.0,Male,Economics,Physics,Undergraduate
+Shawn Coleman,22397.0,2009.0,Female,Social Sciences,Social Sciences,Graduate
+Ronald Hayden,22398.0,2008.0,Female,Computer Science,Chemistry,Undergraduate
+Natasha Hernandez,22399.0,2027.0,Male,Biology,Computer Science,Graduate
+Steven Mullen,22400.0,2021.0,Female,Biology,Electrical Engineering,Graduate
+Brian Anderson,22401.0,2018.0,Female,Physics,Chemistry,Undergraduate
+Melanie Gregory,22402.0,2024.0,Female,Mathematics,Computer Science,Graduate
+Jose Leon,22403.0,2020.0,Male,Finance,Physics,Undergraduate
+Gary Marshall,22404.0,2012.0,Female,Biology,BioChem,Undergraduate
+Kevin Rodriguez,22405.0,2015.0,Male,Computer Science,Pharmacy,Undergraduate
+Nathan Martin,22406.0,2006.0,Female,Business Administration,Accounting and Finance,Undergraduate
+Elizabeth Morris,22407.0,2007.0,Female,Chemistry,Business Administration,Undergraduate
+Kara Duran,22408.0,2013.0,Female,Economics,BioChem,Undergraduate
+Patricia Shelton,22409.0,2013.0,Male,Finance,Physics,Undergraduate
+Denise Smith,22410.0,2021.0,Female,Physics,BioChem,Undergraduate
+Brian Davis,22411.0,2010.0,Female,Biology,Computer Science,Graduate
+Deborah Cox,22412.0,2008.0,Male,Finance,Finance,Undergraduate
+Shane Smith,22413.0,2022.0,Female,Chemistry,Electrical Engineering,Graduate
+Kelly Harris,22414.0,2024.0,Male,Economics,Electrical Engineering,Graduate
+Rachael Knight,22415.0,2005.0,Male,Social Sciences,Pharmacy,Undergraduate
+Samuel Deleon,22416.0,2019.0,Female,Finance,BioChem,Undergraduate
+Jacqueline Greene,22417.0,2025.0,Female,Chemistry,Engineering,Graduate
+Anthony Carey,22418.0,2009.0,Male,Physics,Accounting and Finance,Undergraduate
+Laurie Flores,22419.0,2016.0,Male,Finance,Social Sciences,Graduate
+Amanda Fisher,22420.0,2005.0,Male,Business Administration,Pharmacy,Undergraduate
+Harold Lawrence,22421.0,2004.0,Female,Mathematics,Computer Science,Graduate
+Anne Lawrence,22422.0,2018.0,Male,Business Administration,Physics,Undergraduate
+Andrea Hess,22423.0,2007.0,Female,Economics,Mathematics,Graduate
+Danielle Washington,22424.0,2019.0,Male,Mathematics,Physics,Undergraduate
+Felicia Hill,22425.0,2006.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Andrea Morton,22426.0,2019.0,Female,Biology,Mathematics,Graduate
+Candace Walter,22427.0,2005.0,Female,Finance,Computer Science,Graduate
+Debra Kidd,22428.0,2021.0,Female,Finance,BioChem,Undergraduate
+Lori Kirk,22429.0,2012.0,Female,Physics,Pharmacy,Undergraduate
+Kristen Daniels,22430.0,2009.0,Male,Finance,Computer Science,Graduate
+Adrienne Brock,22431.0,2023.0,Female,Mathematics,Social Sciences,Graduate
+Kristine Stewart,22432.0,2017.0,Female,Social Sciences,BioChem,Undergraduate
+Tammy Luna,22433.0,2004.0,Female,Chemistry,Pharmacy,Undergraduate
+Michael Flores,22434.0,2013.0,Male,Finance,Pharmacy,Undergraduate
+Lori Daniel,22435.0,2004.0,Male,Biology,Finance,Undergraduate
+Mark Moore,22436.0,2017.0,Female,Biology,Business Administration,Undergraduate
+Todd Sloan,22437.0,2025.0,Female,Mathematics,BioChem,Undergraduate
+Melissa Burton,22438.0,2019.0,Male,Business Administration,Economics,Undergraduate
+Cameron Hodges,22439.0,2006.0,Female,Business Administration,Physics,Undergraduate
+John Velez,22440.0,2021.0,Female,Biology,Electrical Engineering,Graduate
+Lisa Lane,22441.0,2022.0,Female,Physics,Chemistry,Undergraduate
+Sherry Cunningham,22442.0,2012.0,Female,Chemistry,Electrical Engineering,Graduate
+Thomas Reynolds,22443.0,2012.0,Female,Biology,Business Administration,Undergraduate
+Shari Caldwell,22444.0,2006.0,Female,Business Administration,Mathematics,Graduate
+Drew Murphy,22445.0,2020.0,Male,Finance,Pharmacy,Undergraduate
+Kristina Vasquez,22446.0,2023.0,Female,Economics,Electrical Engineering,Graduate
+Jordan Mejia,22447.0,2025.0,Male,Chemistry,Chemistry,Undergraduate
+Lisa Robinson,22448.0,2008.0,Female,Computer Science,BioChem,Undergraduate
+Sean Miranda,22449.0,2003.0,Male,Business Administration,Pharmacy,Undergraduate
+Madison Harris,22450.0,2009.0,Male,Finance,Economics,Undergraduate
+Victoria Wright,22451.0,2013.0,Male,Social Sciences,BioChem,Undergraduate
+Ronald Garcia,22452.0,2011.0,Male,Social Sciences,Pharmacy,Undergraduate
+Nicole Carrillo,22453.0,2022.0,Female,Economics,Engineering,Graduate
+Roger Johnson,22454.0,2018.0,Male,Computer Science,Pharmacy,Undergraduate
+Crystal Hunt,22455.0,2016.0,Male,Biology,Accounting and Finance,Undergraduate
+Charles Anderson,22456.0,2026.0,Male,Social Sciences,Computer Science,Graduate
+Jacqueline Lee,22457.0,2023.0,Male,Social Sciences,Business Administration,Undergraduate
+Casey Booker,22458.0,2022.0,Male,Biology,Mathematics,Graduate
+Paul Hicks,22459.0,2016.0,Male,Finance,Accounting and Finance,Undergraduate
+Jennifer White,22460.0,2002.0,Male,Chemistry,Engineering,Graduate
+Daniel Dominguez,22461.0,2012.0,Female,Social Sciences,Finance,Undergraduate
+Patricia Moore,22462.0,2004.0,Female,Social Sciences,Pharmacy,Undergraduate
+Joseph Swanson,22463.0,2023.0,Female,Social Sciences,Finance,Undergraduate
+Mrs. Pamela Wood,22464.0,2019.0,Female,Finance,Chemistry,Undergraduate
+Julie David,22465.0,2010.0,Male,Finance,Chemistry,Undergraduate
+Christina Miller,22466.0,2003.0,Female,Physics,Pharmacy,Undergraduate
+Theresa Ruiz,22467.0,2003.0,Female,Finance,Electrical Engineering,Graduate
+Kenneth Miller,22468.0,2027.0,Female,Mathematics,Pharmacy,Undergraduate
+Monica Mclaughlin,22469.0,2017.0,Female,Physics,Pharmacy,Undergraduate
+Justin Williams,22470.0,2015.0,Male,Mathematics,Finance,Undergraduate
+Douglas Woods,22471.0,2026.0,Male,Mathematics,Chemistry,Undergraduate
+Katherine Gonzalez,22472.0,2005.0,Male,Biology,Mathematics,Graduate
+Jose Campbell,22473.0,2022.0,Female,Computer Science,Engineering,Graduate
+Zachary Chapman,22474.0,2007.0,Male,Economics,Physics,Undergraduate
+Eric Lee,22475.0,2014.0,Female,Biology,Accounting and Finance,Undergraduate
+Julia Hancock,22476.0,2019.0,Female,Biology,Business Administration,Undergraduate
+Robin Stanley,22477.0,2011.0,Male,Mathematics,Pharmacy,Undergraduate
+Heather Li,22478.0,2021.0,Male,Business Administration,Chemistry,Undergraduate
+Jonathan Roberts,22479.0,2020.0,Male,Social Sciences,Engineering,Graduate
+Sheila Brooks,22480.0,2022.0,Male,Finance,Electrical Engineering,Graduate
+Dana Leon,22481.0,2016.0,Female,Social Sciences,Economics,Undergraduate
+James Wall,22482.0,2018.0,Female,Mathematics,Finance,Undergraduate
+Rachel Riddle,22483.0,2017.0,Male,Economics,Pharmacy,Undergraduate
+Emily Romero,22484.0,2027.0,Male,Computer Science,Mathematics,Graduate
+Theresa Conrad,22485.0,2005.0,Male,Business Administration,Engineering,Graduate
+Jenna Wheeler,22486.0,2018.0,Female,Finance,Economics,Undergraduate
+Dorothy Peterson,22487.0,2026.0,Male,Computer Science,BioChem,Undergraduate
+Kevin Ramirez,22488.0,2013.0,Female,Chemistry,Finance,Undergraduate
+Thomas Ortiz,22489.0,2014.0,Male,Mathematics,Chemistry,Undergraduate
+Heidi Morris,22490.0,2027.0,Male,Mathematics,Mathematics,Graduate
+Madison Jones,22491.0,2010.0,Male,Chemistry,Economics,Undergraduate
+Justin Weber,22492.0,2007.0,Male,Business Administration,Computer Science,Graduate
+Douglas Cunningham,22493.0,2005.0,Female,Chemistry,Engineering,Graduate
+Lynn Baker,22494.0,2016.0,Female,Social Sciences,Electrical Engineering,Graduate
+Catherine Rios,22495.0,2013.0,Female,Physics,Accounting and Finance,Undergraduate
+Olivia Branch,22496.0,2026.0,Female,Social Sciences,Chemistry,Undergraduate
+Patrick Snyder,22497.0,2024.0,Female,Economics,Chemistry,Undergraduate
+Andrew Wallace,22498.0,2010.0,Female,Business Administration,Pharmacy,Undergraduate
+Christopher Murray,22499.0,2017.0,Male,Economics,Economics,Undergraduate
+Ashley Lee,22500.0,2005.0,Female,Biology,Chemistry,Undergraduate
+Sandra Hull,22501.0,2026.0,Male,Finance,Chemistry,Undergraduate
+Dr. Steven Hensley,22502.0,2023.0,Female,Mathematics,BioChem,Undergraduate
+Robin Fernandez,22503.0,2007.0,Male,Computer Science,Electrical Engineering,Graduate
+Shannon Kelley,22504.0,2013.0,Male,Finance,Engineering,Graduate
+Yolanda Rubio,22505.0,2014.0,Male,Biology,Physics,Undergraduate
+Kimberly Boyle,22506.0,2013.0,Male,Finance,Economics,Undergraduate
+Amanda Carey,22507.0,2019.0,Male,Business Administration,Social Sciences,Graduate
+Megan Johnson,22508.0,2023.0,Male,Computer Science,Electrical Engineering,Graduate
+Anthony Paul,22509.0,2002.0,Female,Economics,Electrical Engineering,Graduate
+Jacob Lewis,22510.0,2015.0,Male,Physics,BioChem,Undergraduate
+Jeanette Johnson,22511.0,2024.0,Female,Social Sciences,Physics,Undergraduate
+Joanna Roman,22512.0,2015.0,Male,Mathematics,Social Sciences,Graduate
+Mrs. Pamela King MD,22513.0,2014.0,Female,Finance,Physics,Undergraduate
+Theresa Hernandez,22514.0,2016.0,Female,Economics,Mathematics,Graduate
+Johnathan Wright,22515.0,2022.0,Male,Physics,Finance,Undergraduate
+Jacob Johnson,22516.0,2019.0,Female,Business Administration,Business Administration,Undergraduate
+Amber Smith,22517.0,2007.0,Male,Mathematics,Business Administration,Undergraduate
+Daniel Snow,22518.0,2020.0,Male,Biology,Physics,Undergraduate
+Wendy Gonzalez,22519.0,2028.0,Female,Finance,Social Sciences,Graduate
+Randall Buchanan,22520.0,2026.0,Female,Economics,Physics,Undergraduate
+Tanya Johnson,22521.0,2008.0,Female,Biology,Finance,Undergraduate
+Vincent Carlson,22522.0,2005.0,Male,Business Administration,Chemistry,Undergraduate
+Martin Hughes,22523.0,2003.0,Male,Biology,Accounting and Finance,Undergraduate
+Jasmine Wiley,22524.0,2019.0,Male,Chemistry,Engineering,Graduate
+Kevin Foster,22525.0,2014.0,Male,Business Administration,Business Administration,Undergraduate
+Rachael Reynolds,22526.0,2014.0,Male,Social Sciences,Chemistry,Undergraduate
+Joseph Morgan,22527.0,2015.0,Male,Chemistry,Economics,Undergraduate
+Pamela Sanchez,22528.0,2013.0,Male,Chemistry,Finance,Undergraduate
+Bryce Franco,22529.0,2022.0,Male,Finance,Business Administration,Undergraduate
+Steven Young,22530.0,2013.0,Male,Biology,Pharmacy,Undergraduate
+Laura Walker,22531.0,2003.0,Female,Finance,Business Administration,Undergraduate
+Phillip Pearson,22532.0,2010.0,Female,Chemistry,Business Administration,Undergraduate
+Daisy Jones,22533.0,2016.0,Female,Economics,Chemistry,Undergraduate
+Amy Gonzales,22534.0,2013.0,Male,Physics,Mathematics,Graduate
+David Jones,22535.0,2007.0,Male,Social Sciences,Physics,Undergraduate
+Wendy Prince,22536.0,2022.0,Female,Biology,Social Sciences,Graduate
+Alyssa Hall,22537.0,2024.0,Male,Computer Science,Finance,Undergraduate
+Christopher Johnson,22538.0,2018.0,Female,Economics,Engineering,Graduate
+Patricia Lee,22539.0,2024.0,Female,Social Sciences,Pharmacy,Undergraduate
+James Wood,22540.0,2004.0,Female,Economics,Accounting and Finance,Undergraduate
+Adrian Woodward,22541.0,2023.0,Female,Business Administration,Chemistry,Undergraduate
+Karen Doyle,22542.0,2010.0,Female,Finance,Electrical Engineering,Graduate
+Jennifer Bowen,22543.0,2004.0,Male,Social Sciences,Finance,Undergraduate
+Richard Mason,22544.0,2026.0,Male,Biology,Business Administration,Undergraduate
+Andre Johnson,22545.0,2012.0,Female,Social Sciences,BioChem,Undergraduate
+Mike Baker,22546.0,2016.0,Male,Mathematics,Finance,Undergraduate
+Cynthia Sandoval,22547.0,2012.0,Male,Biology,Mathematics,Graduate
+Amber Mahoney,22548.0,2011.0,Female,Biology,Pharmacy,Undergraduate
+James May,22549.0,2009.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Patricia Andrews,22550.0,2018.0,Male,Mathematics,Electrical Engineering,Graduate
+Felicia Porter,22551.0,2010.0,Male,Mathematics,Pharmacy,Undergraduate
+Jordan Cox,22552.0,2023.0,Male,Economics,Accounting and Finance,Undergraduate
+James Snyder,22553.0,2023.0,Male,Mathematics,Physics,Undergraduate
+Jonathan Shepherd,22554.0,2013.0,Female,Mathematics,BioChem,Undergraduate
+Christopher Stewart,22555.0,2021.0,Male,Physics,Finance,Undergraduate
+Jason Cummings,22556.0,2008.0,Male,Biology,Finance,Undergraduate
+Michael Owens,22557.0,2024.0,Male,Mathematics,Chemistry,Undergraduate
+Jennifer Martinez,22558.0,2019.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Justin Ho,22559.0,2006.0,Male,Chemistry,Business Administration,Undergraduate
+Eric Nguyen,22560.0,2013.0,Female,Physics,Chemistry,Undergraduate
+Janet Perkins,22561.0,2013.0,Male,Physics,Computer Science,Graduate
+Christopher Anderson,22562.0,2008.0,Male,Finance,Mathematics,Graduate
+Leslie Haley,22563.0,2006.0,Female,Computer Science,Pharmacy,Undergraduate
+Molly Myers,22564.0,2005.0,Female,Mathematics,Economics,Undergraduate
+Chad Moss,22565.0,2012.0,Male,Physics,Electrical Engineering,Graduate
+Melissa Wheeler,22566.0,2005.0,Female,Business Administration,Electrical Engineering,Graduate
+Thomas Wheeler,22567.0,2006.0,Male,Mathematics,Physics,Undergraduate
+Crystal Richards,22568.0,2014.0,Female,Computer Science,Computer Science,Graduate
+Stephen Johnson,22569.0,2004.0,Female,Computer Science,BioChem,Undergraduate
+Johnathan Bailey,22570.0,2016.0,Female,Mathematics,Business Administration,Undergraduate
+Anna George,22571.0,2025.0,Female,Mathematics,Economics,Undergraduate
+Patrick Robinson,22572.0,2013.0,Female,Finance,BioChem,Undergraduate
+Jason Ross,22573.0,2004.0,Male,Biology,Finance,Undergraduate
+Christopher Luna,22574.0,2019.0,Female,Finance,Economics,Undergraduate
+Ryan Williams,22575.0,2008.0,Female,Business Administration,Pharmacy,Undergraduate
+Alan White,22576.0,2013.0,Female,Economics,Physics,Undergraduate
+David Wallace,22577.0,2019.0,Male,Physics,Chemistry,Undergraduate
+John Spencer,22578.0,2017.0,Male,Chemistry,Chemistry,Undergraduate
+Ricky Moore,22579.0,2019.0,Female,Economics,Chemistry,Undergraduate
+Melanie Stout,22580.0,2014.0,Female,Biology,Economics,Undergraduate
+Kathryn Espinoza,22581.0,2011.0,Female,Mathematics,Economics,Undergraduate
+Anthony Sanchez,22582.0,2008.0,Female,Biology,Social Sciences,Graduate
+Anthony Henderson,22583.0,2008.0,Female,Physics,Mathematics,Graduate
+George Hurst,22584.0,2019.0,Male,Mathematics,Pharmacy,Undergraduate
+Randy Bell,22585.0,2004.0,Male,Mathematics,Pharmacy,Undergraduate
+Mia Brown,22586.0,2020.0,Male,Chemistry,Accounting and Finance,Undergraduate
+Angela Davis,22587.0,2014.0,Male,Biology,Mathematics,Graduate
+Gloria Ortiz PhD,22588.0,2014.0,Male,Social Sciences,Finance,Undergraduate
+Jonathan Dudley,22589.0,2024.0,Female,Biology,Engineering,Graduate
+Jared Jones,22590.0,2012.0,Female,Finance,Pharmacy,Undergraduate
+Aaron Bell,22591.0,2018.0,Female,Social Sciences,Business Administration,Undergraduate
+Benjamin Harrington,22592.0,2025.0,Female,Finance,Economics,Undergraduate
+Jessica Andrade,22593.0,2004.0,Male,Economics,Finance,Undergraduate
+Corey Gamble,22594.0,2007.0,Male,Economics,Business Administration,Undergraduate
+Sharon Williams,22595.0,2014.0,Male,Physics,Finance,Undergraduate
+Robert Jimenez,22596.0,2021.0,Female,Biology,Business Administration,Undergraduate
+Hannah Gonzalez,22597.0,2007.0,Female,Chemistry,Pharmacy,Undergraduate
+Kim Tucker,22598.0,2002.0,Male,Biology,Engineering,Graduate
+Megan Bennett,22599.0,2020.0,Male,Mathematics,Pharmacy,Undergraduate
+Jesse Ellis,22600.0,2026.0,Male,Finance,Computer Science,Graduate
+Mr. Jared Smith,22601.0,2004.0,Female,Social Sciences,Engineering,Graduate
+Monique Jimenez,22602.0,2008.0,Male,Business Administration,Accounting and Finance,Undergraduate
+William Donovan,22603.0,2018.0,Female,Computer Science,Business Administration,Undergraduate
+Andrew Hoffman,22604.0,2014.0,Female,Business Administration,Physics,Undergraduate
+Kimberly Garner,22605.0,2016.0,Male,Biology,Engineering,Graduate
+Kelly Butler,22606.0,2005.0,Male,Computer Science,Mathematics,Graduate
+Katie Boyd,22607.0,2022.0,Male,Biology,Pharmacy,Undergraduate
+Chad Terrell,22608.0,2020.0,Female,Physics,Finance,Undergraduate
+Kathy Price,22609.0,2003.0,Female,Computer Science,Pharmacy,Undergraduate
+Kathy Taylor,22610.0,2010.0,Female,Biology,Chemistry,Undergraduate
+Michael Pitts,22611.0,2010.0,Male,Chemistry,Engineering,Graduate
+Sue Nguyen,22612.0,2016.0,Female,Physics,Social Sciences,Graduate
+John Thomas,22613.0,2011.0,Female,Business Administration,Social Sciences,Graduate
+George Howard,22614.0,2024.0,Male,Finance,Chemistry,Undergraduate
+Patrick Bridges,22615.0,2004.0,Female,Physics,Engineering,Graduate
+Mary Diaz,22616.0,2010.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Edward Keller,22617.0,2024.0,Female,Computer Science,BioChem,Undergraduate
+John Mcmillan,22618.0,2012.0,Female,Physics,Accounting and Finance,Undergraduate
+Ricky Larsen,22619.0,2010.0,Female,Physics,Computer Science,Graduate
+Antonio Spencer,22620.0,2026.0,Female,Computer Science,Social Sciences,Graduate
+Jennifer Gomez,22621.0,2011.0,Female,Biology,Physics,Undergraduate
+Sherry Wells,22622.0,2003.0,Female,Biology,Chemistry,Undergraduate
+Todd Cherry,22623.0,2008.0,Female,Physics,Engineering,Graduate
+Michael Nelson,22624.0,2018.0,Male,Biology,BioChem,Undergraduate
+Christopher Diaz,22625.0,2009.0,Male,Business Administration,Physics,Undergraduate
+Allison Villanueva,22626.0,2008.0,Male,Mathematics,Business Administration,Undergraduate
+Shawn Smith,22627.0,2015.0,Female,Finance,Mathematics,Graduate
+Misty Williamson,22628.0,2026.0,Male,Mathematics,Social Sciences,Graduate
+David Fisher,22629.0,2021.0,Female,Biology,Social Sciences,Graduate
+Jonathan Anderson,22630.0,2014.0,Male,Social Sciences,Computer Science,Graduate
+Jesse Ramirez,22631.0,2008.0,Female,Business Administration,Business Administration,Undergraduate
+Anna Hayes,22632.0,2005.0,Female,Computer Science,Business Administration,Undergraduate
+Mary Wolfe,22633.0,2025.0,Male,Economics,Economics,Undergraduate
+Cesar Mills,22634.0,2004.0,Male,Biology,Finance,Undergraduate
+Jessica Cherry,22635.0,2010.0,Female,Biology,Engineering,Graduate
+Catherine Alvarez,22636.0,2026.0,Female,Social Sciences,Economics,Undergraduate
+Belinda Walker,22637.0,2012.0,Female,Economics,Finance,Undergraduate
+Regina James,22638.0,2011.0,Female,Chemistry,Business Administration,Undergraduate
+Kathleen May,22639.0,2015.0,Female,Biology,Business Administration,Undergraduate
+Sarah Stephens,22640.0,2009.0,Male,Business Administration,Economics,Undergraduate
+Kathryn Kelly,22641.0,2021.0,Female,Finance,Business Administration,Undergraduate
+Joshua Mcdonald,22642.0,2014.0,Female,Finance,Social Sciences,Graduate
+Katherine Love,22643.0,2026.0,Male,Mathematics,Economics,Undergraduate
+Debbie Perez,22644.0,2017.0,Male,Computer Science,Engineering,Graduate
+Chris Pierce,22645.0,2012.0,Male,Business Administration,Electrical Engineering,Graduate
+Jon Horton,22646.0,2006.0,Male,Physics,Pharmacy,Undergraduate
+Jose Thomas,22647.0,2011.0,Male,Physics,Chemistry,Undergraduate
+Clayton King,22648.0,2026.0,Male,Mathematics,Business Administration,Undergraduate
+Jonathan Skinner,22649.0,2009.0,Female,Social Sciences,Chemistry,Undergraduate
+Jennifer Thomas,22650.0,2007.0,Male,Finance,Accounting and Finance,Undergraduate
+Michael Morales,22651.0,2003.0,Male,Business Administration,Electrical Engineering,Graduate
+Austin Nichols,22652.0,2025.0,Female,Business Administration,Chemistry,Undergraduate
+David Baldwin,22653.0,2016.0,Female,Mathematics,Engineering,Graduate
+Susan Delacruz,22654.0,2014.0,Male,Social Sciences,Finance,Undergraduate
+Holly Evans,22655.0,2010.0,Female,Physics,Accounting and Finance,Undergraduate
+Eric King,22656.0,2022.0,Female,Biology,Business Administration,Undergraduate
+Melissa Wilson,22657.0,2024.0,Female,Social Sciences,Social Sciences,Graduate
+Charles Harris,22658.0,2009.0,Male,Economics,Finance,Undergraduate
+Omar Barrera,22659.0,2004.0,Male,Biology,Economics,Undergraduate
+Mary Mills,22660.0,2012.0,Female,Computer Science,Social Sciences,Graduate
+Anthony Miller,22661.0,2022.0,Female,Chemistry,BioChem,Undergraduate
+Chelsea Moss,22662.0,2015.0,Female,Finance,Accounting and Finance,Undergraduate
+Zachary Martinez,22663.0,2010.0,Male,Finance,Physics,Undergraduate
+John Parker,22664.0,2010.0,Female,Finance,Chemistry,Undergraduate
+Tiffany Taylor,22665.0,2005.0,Male,Biology,Engineering,Graduate
+Scott Perry,22666.0,2003.0,Female,Economics,Economics,Undergraduate
+Jacob Maynard,22667.0,2021.0,Male,Business Administration,Accounting and Finance,Undergraduate
+Connie Silva,22668.0,2010.0,Male,Biology,Pharmacy,Undergraduate
+Tiffany Hanson,22669.0,2015.0,Male,Mathematics,Chemistry,Undergraduate
+Makayla Ramos,22670.0,2007.0,Male,Biology,Chemistry,Undergraduate
+Stacey Hunt,22671.0,2023.0,Male,Computer Science,Social Sciences,Graduate
+Pamela Gill,22672.0,2020.0,Female,Social Sciences,Social Sciences,Graduate
+Tiffany Decker,22673.0,2022.0,Male,Biology,Pharmacy,Undergraduate
+Jeffrey Griffin,22674.0,2023.0,Male,Biology,Engineering,Graduate
+Jessica Johnson,22675.0,2026.0,Male,Physics,Chemistry,Undergraduate
+Kevin Lee,22676.0,2024.0,Female,Economics,Electrical Engineering,Graduate
+Eric Garcia,22677.0,2021.0,Female,Physics,Accounting and Finance,Undergraduate
+Angela Williams,22678.0,2003.0,Male,Biology,Business Administration,Undergraduate
+Matthew Smith,22679.0,2024.0,Male,Physics,Accounting and Finance,Undergraduate
+Jesse Miller,22680.0,2017.0,Male,Economics,BioChem,Undergraduate
+Anthony Perry,22681.0,2016.0,Female,Finance,Business Administration,Undergraduate
+Mark Nichols,22682.0,2007.0,Female,Chemistry,Computer Science,Graduate
+Jonathan Brown,22683.0,2017.0,Female,Mathematics,Finance,Undergraduate
+Miranda Thompson,22684.0,2010.0,Male,Chemistry,Finance,Undergraduate
+Nicole Patel,22685.0,2026.0,Female,Business Administration,BioChem,Undergraduate
+James Ramirez,22686.0,2023.0,Male,Mathematics,Social Sciences,Graduate
+Kathy Perez,22687.0,2020.0,Female,Business Administration,Social Sciences,Graduate
+Kevin Diaz,22688.0,2002.0,Female,Computer Science,Engineering,Graduate
+Michael Gomez,22689.0,2025.0,Female,Biology,Chemistry,Undergraduate
+Jill Rodriguez,22690.0,2009.0,Male,Biology,Physics,Undergraduate
+Ricky Bennett,22691.0,2019.0,Male,Biology,Mathematics,Graduate
+Willie James,22692.0,2008.0,Female,Biology,Finance,Undergraduate
+Nicole Nguyen,22693.0,2016.0,Female,Biology,Mathematics,Graduate
+Elijah Pruitt,22694.0,2027.0,Male,Chemistry,Computer Science,Graduate
+Thomas Robinson,22695.0,2014.0,Female,Finance,Engineering,Graduate
+Jody Case,22696.0,2018.0,Male,Computer Science,Electrical Engineering,Graduate
+Maria Flynn,22697.0,2008.0,Female,Social Sciences,Mathematics,Graduate
+Elizabeth Flores,22698.0,2027.0,Female,Business Administration,Social Sciences,Graduate
+Kurt Clark,22699.0,2027.0,Female,Chemistry,Finance,Undergraduate
+Alexander Cooper,22700.0,2005.0,Male,Biology,Computer Science,Graduate
+Cindy Schwartz,22701.0,2016.0,Male,Chemistry,Electrical Engineering,Graduate
+Matthew Ramirez,22702.0,2012.0,Female,Business Administration,Computer Science,Graduate
+Christopher Morris,22703.0,2016.0,Male,Business Administration,Pharmacy,Undergraduate
+Joshua Wright,22704.0,2022.0,Female,Chemistry,Business Administration,Undergraduate
+Cynthia Zuniga,22705.0,2024.0,Female,Economics,Social Sciences,Graduate
+Frank Jones,22706.0,2015.0,Female,Economics,Pharmacy,Undergraduate
+Melissa Martin,22707.0,2026.0,Female,Computer Science,Computer Science,Graduate
+Ashley Gonzales,22708.0,2015.0,Male,Business Administration,Economics,Undergraduate
+Lisa Friedman,22709.0,2009.0,Female,Social Sciences,Chemistry,Undergraduate
+Stacy Stein,22710.0,2014.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Tina Wong,22711.0,2007.0,Male,Economics,Engineering,Graduate
+Lauren Williams,22712.0,2019.0,Female,Economics,Engineering,Graduate
+Carmen Harrison,22713.0,2006.0,Female,Economics,Finance,Undergraduate
+Sarah Parker,22714.0,2005.0,Female,Biology,Social Sciences,Graduate
+Ruben Duncan MD,22715.0,2006.0,Female,Social Sciences,Engineering,Graduate
+Stephen Thompson,22716.0,2022.0,Female,Physics,Engineering,Graduate
+Thomas Howell,22717.0,2017.0,Male,Physics,Social Sciences,Graduate
+David Jensen,22718.0,2007.0,Male,Social Sciences,Mathematics,Graduate
+Luis Gomez,22719.0,2010.0,Female,Economics,Electrical Engineering,Graduate
+Brittney Rodriguez,22720.0,2016.0,Female,Business Administration,Economics,Undergraduate
+Michael Carroll,22721.0,2016.0,Male,Finance,Accounting and Finance,Undergraduate
+Jennifer Fowler,22722.0,2007.0,Female,Computer Science,BioChem,Undergraduate
+Robert Yang,22723.0,2025.0,Male,Biology,Mathematics,Graduate
+Wanda Roy,22724.0,2022.0,Male,Business Administration,Economics,Undergraduate
+Jennifer Estes,22725.0,2016.0,Male,Biology,Economics,Undergraduate
+Amy Hart,22726.0,2017.0,Male,Mathematics,Accounting and Finance,Undergraduate
+Jimmy Nelson,22727.0,2019.0,Male,Mathematics,Accounting and Finance,Undergraduate
+Jimmy Barker,22728.0,2017.0,Male,Social Sciences,BioChem,Undergraduate
+Pamela Rocha,22729.0,2003.0,Male,Physics,Accounting and Finance,Undergraduate
+Chad Sampson,22730.0,2009.0,Female,Mathematics,Engineering,Graduate
+Kyle Spencer,22731.0,2008.0,Female,Physics,Social Sciences,Graduate
+William Payne,22732.0,2004.0,Male,Biology,Social Sciences,Graduate
+Alexandra Rivas,22733.0,2019.0,Female,Finance,Computer Science,Graduate
+Julie Gonzalez,22734.0,2025.0,Male,Economics,Mathematics,Graduate
+Michael Clark,22735.0,2008.0,Female,Mathematics,Finance,Undergraduate
+Lisa Guerra,22736.0,2003.0,Male,Economics,Accounting and Finance,Undergraduate
+Noah Hurst,22737.0,2012.0,Male,Biology,Finance,Undergraduate
+Elizabeth Smith,22738.0,2004.0,Female,Mathematics,Chemistry,Undergraduate
+Courtney Mcgrath,22739.0,2012.0,Female,Economics,BioChem,Undergraduate
+Samantha Patterson,22740.0,2014.0,Female,Finance,BioChem,Undergraduate
+Breanna Williams,22741.0,2002.0,Male,Social Sciences,Engineering,Graduate
+Ryan Garcia,22742.0,2016.0,Female,Social Sciences,Computer Science,Graduate
+Mary Coleman,22743.0,2005.0,Female,Business Administration,Computer Science,Graduate
+Tony Harris,22744.0,2015.0,Male,Computer Science,Electrical Engineering,Graduate
+Bruce Kelly,22745.0,2022.0,Male,Chemistry,Finance,Undergraduate
+Charles Fields,22746.0,2010.0,Male,Biology,Chemistry,Undergraduate
+Gregory Stone,22747.0,2008.0,Female,Computer Science,Electrical Engineering,Graduate
+Brian Fisher,22748.0,2022.0,Female,Business Administration,Electrical Engineering,Graduate
+Amber Cantu,22749.0,2009.0,Male,Chemistry,Electrical Engineering,Graduate
+Christina Williams,22750.0,2027.0,Female,Economics,Computer Science,Graduate
+Amber Cain,22751.0,2003.0,Female,Biology,Economics,Undergraduate
+Jerry Martin,22752.0,2016.0,Male,Chemistry,Pharmacy,Undergraduate
+Jessica Love,22753.0,2007.0,Female,Biology,Economics,Undergraduate
+Jonathan Grimes,22754.0,2007.0,Male,Economics,Business Administration,Undergraduate
+Michael Riley,22755.0,2010.0,Female,Economics,Mathematics,Graduate
+Anna Edwards,22756.0,2023.0,Female,Biology,Electrical Engineering,Graduate
+Christopher Montoya,22757.0,2008.0,Female,Chemistry,Pharmacy,Undergraduate
+Matthew Owens,22758.0,2014.0,Male,Finance,Business Administration,Undergraduate
+Wayne Villegas,22759.0,2022.0,Male,Computer Science,Electrical Engineering,Graduate
+Raymond Alvarez,22760.0,2022.0,Male,Chemistry,Physics,Undergraduate
+Kelli Boone,22761.0,2012.0,Male,Chemistry,Chemistry,Undergraduate
+Julie Santiago,22762.0,2008.0,Female,Economics,Electrical Engineering,Graduate
+John Rogers,22763.0,2011.0,Male,Computer Science,Accounting and Finance,Undergraduate
+Yolanda Nguyen,22764.0,2021.0,Male,Finance,Computer Science,Graduate
+Frank Reid,22765.0,2009.0,Female,Social Sciences,Chemistry,Undergraduate
+Jason Washington,22766.0,2007.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Tracey Garcia,22767.0,2018.0,Female,Social Sciences,Finance,Undergraduate
+Joshua Lowe,22768.0,2004.0,Female,Computer Science,Engineering,Graduate
+Michael Johnson,22769.0,2013.0,Male,Business Administration,Accounting and Finance,Undergraduate
+Jesse Hampton,22770.0,2007.0,Female,Computer Science,Business Administration,Undergraduate
+Robin Guerra,22771.0,2020.0,Female,Social Sciences,Finance,Undergraduate
+Nancy Mcdaniel,22772.0,2026.0,Female,Mathematics,Computer Science,Graduate
+Caroline Hunt,22773.0,2011.0,Female,Mathematics,Economics,Undergraduate
+Robert Richards,22774.0,2013.0,Male,Business Administration,Physics,Undergraduate
+Karen Wells,22775.0,2011.0,Female,Biology,Economics,Undergraduate
+Brian Johnson,22776.0,2011.0,Female,Biology,Business Administration,Undergraduate
+Jessica Riley,22777.0,2017.0,Female,Biology,Finance,Undergraduate
+Allen Bowman,22778.0,2008.0,Female,Finance,Computer Science,Graduate
+Jeremy Davis,22779.0,2020.0,Female,Economics,Pharmacy,Undergraduate
+Kevin Webster,22780.0,2015.0,Female,Mathematics,Chemistry,Undergraduate
+Lisa Zhang,22781.0,2008.0,Female,Social Sciences,Computer Science,Graduate
+Raymond Jackson,22782.0,2027.0,Female,Physics,Computer Science,Graduate
+Maria Beasley,22783.0,2006.0,Male,Economics,BioChem,Undergraduate
+Richard Hopkins,22784.0,2007.0,Female,Economics,Chemistry,Undergraduate
+Dr. James Stevens MD,22785.0,2004.0,Male,Physics,Pharmacy,Undergraduate
+Hector Harris,22786.0,2018.0,Female,Mathematics,Business Administration,Undergraduate
+Tony Nicholson,22787.0,2005.0,Female,Social Sciences,Economics,Undergraduate
+Heather Romero,22788.0,2013.0,Male,Chemistry,Mathematics,Graduate
+Charles Campbell,22789.0,2010.0,Male,Chemistry,Computer Science,Graduate
+Tara Rice,22790.0,2009.0,Male,Economics,Business Administration,Undergraduate
+Jeffrey Thomas,22791.0,2017.0,Female,Biology,Social Sciences,Graduate
+Angela Wall,22792.0,2012.0,Female,Physics,Mathematics,Graduate
+Barbara Gordon,22793.0,2021.0,Male,Computer Science,Economics,Undergraduate
+Mrs. Candace Hunt,22794.0,2027.0,Female,Mathematics,Computer Science,Graduate
+Beth Mendoza,22795.0,2012.0,Male,Finance,Economics,Undergraduate
+Rodney Frazier,22796.0,2024.0,Female,Mathematics,BioChem,Undergraduate
+Megan Shepard,22797.0,2013.0,Male,Social Sciences,Chemistry,Undergraduate
+Susan Brown,22798.0,2008.0,Male,Physics,Computer Science,Graduate
+Kimberly Gray,22799.0,2004.0,Male,Chemistry,Finance,Undergraduate
+Carl Gibson,22800.0,2006.0,Female,Computer Science,BioChem,Undergraduate
+Mrs. Kristin Perry,22801.0,2012.0,Male,Business Administration,Mathematics,Graduate
+Robert Peterson,22802.0,2014.0,Female,Business Administration,Economics,Undergraduate
+Crystal Green,22803.0,2002.0,Male,Economics,Chemistry,Undergraduate
+Sean Stokes,22804.0,2020.0,Male,Finance,Accounting and Finance,Undergraduate
+Sarah Martinez,22805.0,2004.0,Male,Economics,Mathematics,Graduate
+Shawn Roberts MD,22806.0,2011.0,Male,Finance,Mathematics,Graduate
+Timothy Burnett,22807.0,2005.0,Male,Biology,Computer Science,Graduate
+Tracy Murphy,22808.0,2020.0,Male,Economics,Pharmacy,Undergraduate
+James Smith,22809.0,2019.0,Female,Computer Science,Engineering,Graduate
+Ryan Bridges,22810.0,2009.0,Male,Biology,Chemistry,Undergraduate
+Victor Anderson,22811.0,2024.0,Female,Mathematics,Electrical Engineering,Graduate
+Ashley Brooks,22812.0,2026.0,Male,Mathematics,Social Sciences,Graduate
+Angela Lee,22813.0,2005.0,Male,Biology,Computer Science,Graduate
+Diane Harrell,22814.0,2013.0,Male,Biology,Electrical Engineering,Graduate
+Stacey Blackwell,22815.0,2022.0,Male,Mathematics,Finance,Undergraduate
+Alejandro Robinson,22816.0,2006.0,Male,Economics,BioChem,Undergraduate
+Bradley Rangel,22817.0,2009.0,Female,Computer Science,Computer Science,Graduate
+Tammy Walker,22818.0,2019.0,Female,Biology,Social Sciences,Graduate
+Tamara Mccarthy,22819.0,2019.0,Female,Mathematics,Engineering,Graduate
+Sydney Dean,22820.0,2025.0,Female,Chemistry,Social Sciences,Graduate
+Krista Nguyen,22821.0,2013.0,Female,Finance,Accounting and Finance,Undergraduate
+Jonathan Arellano DDS,22822.0,2007.0,Male,Economics,Computer Science,Graduate
+Sandra Jones,22823.0,2016.0,Male,Mathematics,Finance,Undergraduate
+Sean Jenkins,22824.0,2022.0,Female,Finance,BioChem,Undergraduate
+Jon Olsen,22825.0,2008.0,Male,Social Sciences,Electrical Engineering,Graduate
+Amanda Giles,22826.0,2024.0,Female,Computer Science,Mathematics,Graduate
+Tonya Foster,22827.0,2024.0,Female,Economics,Electrical Engineering,Graduate
+Sarah Thomas,22828.0,2010.0,Female,Business Administration,BioChem,Undergraduate
+Vanessa Jackson,22829.0,2023.0,Male,Business Administration,Mathematics,Graduate
+Patricia Ibarra,22830.0,2009.0,Male,Computer Science,Mathematics,Graduate
+Andrew Newman,22831.0,2013.0,Male,Social Sciences,Electrical Engineering,Graduate
+Kenneth Moore,22832.0,2024.0,Male,Finance,BioChem,Undergraduate
+Derek Welch,22833.0,2024.0,Female,Social Sciences,Accounting and Finance,Undergraduate
+Brian Green,22834.0,2008.0,Male,Mathematics,Social Sciences,Graduate
+Kevin Freeman,22835.0,2006.0,Male,Biology,Computer Science,Graduate
+Robert Nelson,22836.0,2026.0,Male,Computer Science,Finance,Undergraduate
+Samuel Johnson,22837.0,2018.0,Female,Business Administration,Accounting and Finance,Undergraduate
+David Johnson,22838.0,2011.0,Male,Business Administration,Mathematics,Graduate
+Tamara Garcia,22839.0,2003.0,Male,Social Sciences,Engineering,Graduate
+Christine Moreno PhD,22840.0,2023.0,Female,Computer Science,Accounting and Finance,Undergraduate
+Jessica Taylor,22841.0,2009.0,Female,Finance,Economics,Undergraduate
+Megan Lara,22842.0,2010.0,Male,Economics,Accounting and Finance,Undergraduate
+Lisa Green,22843.0,2007.0,Male,Social Sciences,BioChem,Undergraduate
+Nancy Moore,22844.0,2025.0,Male,Finance,Chemistry,Undergraduate
+Carolyn Moore,22845.0,2020.0,Female,Business Administration,Accounting and Finance,Undergraduate
+Justin Lewis,22846.0,2017.0,Female,Chemistry,BioChem,Undergraduate
+Christopher Petersen,22847.0,2018.0,Female,Business Administration,Economics,Undergraduate
+Charles Cervantes,22848.0,2011.0,Male,Business Administration,Economics,Undergraduate
+Brenda Higgins,22849.0,2014.0,Male,Physics,Computer Science,Graduate
+Karen Williams,22850.0,2005.0,Female,Social Sciences,Chemistry,Undergraduate
+Roger Lee,22851.0,2010.0,Male,Computer Science,Electrical Engineering,Graduate
+Alexandra Woods,22852.0,2013.0,Male,Business Administration,Chemistry,Undergraduate
+Mark Anderson,22853.0,2005.0,Female,Computer Science,Business Administration,Undergraduate
+Miguel Ellis,22854.0,2011.0,Female,Social Sciences,Economics,Undergraduate
+Melissa Keith,22855.0,2027.0,Female,Biology,Finance,Undergraduate
+Ronald Mays,22856.0,2014.0,Female,Social Sciences,Economics,Undergraduate
+Bradley Holmes,22857.0,2021.0,Male,Mathematics,Business Administration,Undergraduate
+Elizabeth Everett,22858.0,2006.0,Female,Biology,Chemistry,Undergraduate
+Mark Hicks,22859.0,2005.0,Male,Physics,Business Administration,Undergraduate
+Whitney Schmidt,22860.0,2021.0,Female,Computer Science,Finance,Undergraduate
+Virginia Robinson,22861.0,2003.0,Male,Business Administration,Electrical Engineering,Graduate
+Ryan Jordan,22862.0,2005.0,Male,Economics,Physics,Undergraduate
+Logan Ayala,22863.0,2025.0,Female,Computer Science,Business Administration,Undergraduate
+Tyler Cook,22864.0,2013.0,Female,Mathematics,Finance,Undergraduate
+George Hickman,22865.0,2018.0,Female,Chemistry,Chemistry,Undergraduate
+Jacob Brewer,22866.0,2021.0,Male,Physics,Physics,Undergraduate
+April Brooks,22867.0,2015.0,Male,Mathematics,Chemistry,Undergraduate
+Shawn Kirk,22868.0,2022.0,Male,Biology,Computer Science,Graduate
+Mary Carrillo,22869.0,2016.0,Male,Finance,Accounting and Finance,Undergraduate
+Felicia Doyle,22870.0,2007.0,Male,Computer Science,Electrical Engineering,Graduate
+Bryan Allen,22871.0,2019.0,Male,Computer Science,Pharmacy,Undergraduate
+Jennifer Moore,22872.0,2022.0,Male,Business Administration,Engineering,Graduate
+Duane Miller,22873.0,2026.0,Female,Economics,Computer Science,Graduate
+Donna Smith,22874.0,2024.0,Female,Mathematics,Pharmacy,Undergraduate
+Jason Houston,22875.0,2014.0,Female,Computer Science,Mathematics,Graduate
+Elizabeth Kane,22876.0,2013.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Kathleen Andrews,22877.0,2008.0,Female,Physics,Engineering,Graduate
+Donald Myers,22878.0,2027.0,Male,Business Administration,Mathematics,Graduate
+Kelly Johns,22879.0,2025.0,Female,Chemistry,Pharmacy,Undergraduate
+Ryan Phillips,22880.0,2016.0,Male,Business Administration,Computer Science,Graduate
+David Martin,22881.0,2021.0,Female,Biology,Chemistry,Undergraduate
+Melissa Best,22882.0,2023.0,Male,Physics,Economics,Undergraduate
+Robin Jackson,22883.0,2003.0,Female,Finance,Physics,Undergraduate
+Keith Miller,22884.0,2003.0,Male,Business Administration,Economics,Undergraduate
+Matthew Richards,22885.0,2024.0,Female,Economics,Computer Science,Graduate
+Amanda Bentley,22886.0,2011.0,Male,Computer Science,Physics,Undergraduate
+Austin Fuentes,22887.0,2006.0,Female,Finance,Economics,Undergraduate
+Blake Rodriguez,22888.0,2022.0,Female,Business Administration,Electrical Engineering,Graduate
+Jamie Conrad,22889.0,2012.0,Female,Physics,Engineering,Graduate
+Douglas Walker,22890.0,2026.0,Male,Mathematics,Social Sciences,Graduate
+Shelly Simmons,22891.0,2016.0,Female,Chemistry,Computer Science,Graduate
+Faith Miller,22892.0,2006.0,Male,Chemistry,Accounting and Finance,Undergraduate
+Michelle Moore,22893.0,2007.0,Female,Social Sciences,Chemistry,Undergraduate
+Ray Lewis,22894.0,2009.0,Female,Biology,Electrical Engineering,Graduate
+Mr. Jeffrey Donaldson,22895.0,2023.0,Female,Chemistry,BioChem,Undergraduate
+Sharon Meyer,22896.0,2014.0,Male,Biology,Mathematics,Graduate
+Mrs. Carolyn Haynes,22897.0,2013.0,Female,Biology,Engineering,Graduate
+Patricia Wood,22898.0,2016.0,Female,Biology,Electrical Engineering,Graduate
+Phillip Lewis,22899.0,2012.0,Male,Mathematics,Electrical Engineering,Graduate
+George Ponce,22900.0,2022.0,Female,Mathematics,Chemistry,Undergraduate
+Bruce Ball,22901.0,2026.0,Male,Finance,Mathematics,Graduate
+Shane Herrera,22902.0,2002.0,Female,Computer Science,Electrical Engineering,Graduate
+Herbert Gilbert,22903.0,2012.0,Female,Chemistry,Pharmacy,Undergraduate
+Lindsey Davenport,22904.0,2012.0,Female,Economics,Computer Science,Graduate
+Alexander Cook,22905.0,2010.0,Male,Physics,Mathematics,Graduate
+Anthony Reed,22906.0,2024.0,Female,Chemistry,BioChem,Undergraduate
+Melissa Nelson,22907.0,2004.0,Male,Physics,Economics,Undergraduate
+Alex Rios,22908.0,2025.0,Male,Biology,Economics,Undergraduate
+Holly Love,22909.0,2010.0,Male,Business Administration,Finance,Undergraduate
+Kathryn Barker,22910.0,2016.0,Female,Economics,Pharmacy,Undergraduate
+Bradley Flores,22911.0,2010.0,Female,Biology,Finance,Undergraduate
+Jonathan Perry,22912.0,2010.0,Female,Biology,Economics,Undergraduate
+Terry Castillo,22913.0,2017.0,Male,Mathematics,Finance,Undergraduate
+Jane Washington,22914.0,2009.0,Male,Biology,Finance,Undergraduate
+Mallory Sparks,22915.0,2006.0,Female,Mathematics,Chemistry,Undergraduate
+Caitlin Lucas,22916.0,2024.0,Female,Social Sciences,Engineering,Graduate
+Ann Harper,22917.0,2016.0,Male,Computer Science,Mathematics,Graduate
+Lisa Powell,22918.0,2003.0,Female,Physics,Pharmacy,Undergraduate
+Michele Holt,22919.0,2019.0,Male,Mathematics,Business Administration,Undergraduate
+Claudia Ramos,22920.0,2019.0,Female,Business Administration,Finance,Undergraduate
+Raymond Hull,22921.0,2017.0,Male,Business Administration,Chemistry,Undergraduate
+Daniel Peters,22922.0,2022.0,Female,Economics,Chemistry,Undergraduate
+Michelle Vincent,22923.0,2022.0,Male,Business Administration,Mathematics,Graduate
+Samantha Taylor,22924.0,2024.0,Female,Business Administration,Mathematics,Graduate
+Allison Hernandez,22925.0,2004.0,Male,Biology,Social Sciences,Graduate
+Randy Johnson,22926.0,2007.0,Female,Chemistry,Computer Science,Graduate
+Mrs. Kiara Porter MD,22927.0,2011.0,Male,Social Sciences,Physics,Undergraduate
+Steven Clark,22928.0,2025.0,Male,Chemistry,Mathematics,Graduate
+Regina Baldwin,22929.0,2012.0,Female,Business Administration,BioChem,Undergraduate
+Steven Raymond,22930.0,2018.0,Male,Physics,Business Administration,Undergraduate
+Michael Smith,22931.0,2004.0,Male,Biology,Pharmacy,Undergraduate
+Jason Reynolds PhD,22932.0,2024.0,Male,Mathematics,Engineering,Graduate
+Kara Flynn,22933.0,2016.0,Female,Finance,Electrical Engineering,Graduate
+Douglas Floyd,22934.0,2027.0,Male,Finance,Pharmacy,Undergraduate
+Jesse Kim,22935.0,2020.0,Female,Biology,Pharmacy,Undergraduate
+Jonathon Sanchez,22936.0,2018.0,Female,Business Administration,Chemistry,Undergraduate
+Christopher Robinson,22937.0,2006.0,Female,Mathematics,BioChem,Undergraduate
+Jeffrey Andersen,22938.0,2003.0,Female,Business Administration,Chemistry,Undergraduate
+Emily Black,22939.0,2017.0,Female,Chemistry,Computer Science,Graduate
+Dr. Heather Thomas MD,22940.0,2013.0,Female,Computer Science,Physics,Undergraduate
+Carlos Lindsey,22941.0,2018.0,Female,Chemistry,Engineering,Graduate
+Paul Parks,22942.0,2004.0,Male,Mathematics,Economics,Undergraduate
+Michael Simmons,22943.0,2027.0,Male,Biology,BioChem,Undergraduate
+Raymond Hancock,22944.0,2006.0,Male,Social Sciences,Accounting and Finance,Undergraduate
+Stacey Howell,22945.0,2022.0,Female,Biology,Pharmacy,Undergraduate
+Kathleen Cline,22946.0,2013.0,Female,Finance,BioChem,Undergraduate
+Linda Cunningham,22947.0,2010.0,Male,Biology,Computer Science,Graduate
+Samantha Martinez,22948.0,2007.0,Male,Biology,Economics,Undergraduate
+Troy Miller MD,22949.0,2005.0,Male,Computer Science,Business Administration,Undergraduate
+Thomas Bailey,22950.0,2013.0,Female,Finance,Computer Science,Graduate
+Sarah Martinez,22951.0,2026.0,Male,Business Administration,Physics,Undergraduate
+Sarah Gray,22952.0,2020.0,Female,Chemistry,Physics,Undergraduate
+Jennifer Smith,22953.0,2021.0,Female,Chemistry,Chemistry,Undergraduate
+William Carey,22954.0,2025.0,Female,Social Sciences,Business Administration,Undergraduate
+Amanda Salazar,22955.0,2014.0,Female,Chemistry,Chemistry,Undergraduate
+John Elliott,22956.0,2007.0,Male,Social Sciences,Business Administration,Undergraduate
+John Morgan,22957.0,2004.0,Female,Social Sciences,Physics,Undergraduate
+Joseph Miller,22958.0,2004.0,Female,Physics,Electrical Engineering,Graduate
+Roger Lopez,22959.0,2021.0,Female,Finance,Engineering,Graduate
+Gina Hurley,22960.0,2017.0,Male,Business Administration,Physics,Undergraduate
+April Ballard,22961.0,2008.0,Female,Business Administration,Finance,Undergraduate
+Mary King,22962.0,2025.0,Male,Business Administration,Economics,Undergraduate
+Diane Brown,22963.0,2025.0,Male,Biology,Computer Science,Graduate
+Adam Mcbride,22964.0,2004.0,Female,Computer Science,Electrical Engineering,Graduate
+Craig Gutierrez,22965.0,2016.0,Male,Social Sciences,Business Administration,Undergraduate
+Brandy Morrison,22966.0,2006.0,Male,Biology,Pharmacy,Undergraduate
+Maria Miller,22967.0,2021.0,Male,Mathematics,BioChem,Undergraduate
+Raymond Smith,22968.0,2007.0,Female,Physics,Electrical Engineering,Graduate
+Denise Hanna,22969.0,2021.0,Male,Finance,Engineering,Graduate
+Erin Williams,22970.0,2026.0,Male,Biology,Physics,Undergraduate
+Breanna Mcgrath,22971.0,2006.0,Female,Chemistry,Accounting and Finance,Undergraduate
+Frank Ramos,22972.0,2005.0,Female,Biology,Pharmacy,Undergraduate
+Sabrina Robinson,22973.0,2023.0,Male,Social Sciences,Electrical Engineering,Graduate
+Lisa Castillo,22974.0,2024.0,Male,Chemistry,Physics,Undergraduate
+Joann Campos,22975.0,2022.0,Male,Chemistry,Engineering,Graduate
+Russell Arnold,22976.0,2017.0,Female,Physics,Finance,Undergraduate
+Jamie Phillips MD,22977.0,2019.0,Male,Business Administration,Accounting and Finance,Undergraduate
+Sarah Conrad,22978.0,2020.0,Female,Physics,Chemistry,Undergraduate
+Savannah Mills,22979.0,2015.0,Female,Finance,BioChem,Undergraduate
+Stephen Everett,22980.0,2018.0,Male,Social Sciences,Pharmacy,Undergraduate
+Amanda Irwin,22981.0,2018.0,Female,Biology,Accounting and Finance,Undergraduate
+Justin Arellano,22982.0,2007.0,Female,Chemistry,BioChem,Undergraduate
+Pamela Webb,22983.0,2018.0,Male,Biology,Computer Science,Graduate
+Brian Simon,22984.0,2010.0,Female,Mathematics,Pharmacy,Undergraduate
+Mrs. Morgan Foster,22985.0,2015.0,Female,Economics,BioChem,Undergraduate
+Denise Benitez,22986.0,2010.0,Female,Business Administration,BioChem,Undergraduate
+Rebecca Martin,22987.0,2004.0,Male,Economics,Social Sciences,Graduate
+Stephanie Jones,22988.0,2019.0,Male,Physics,Physics,Undergraduate
+Shawn Davis,22989.0,2010.0,Female,Physics,Business Administration,Undergraduate
+Billy Velasquez,22990.0,2016.0,Male,Social Sciences,Mathematics,Graduate
+Chad Higgins,22991.0,2003.0,Male,Business Administration,Pharmacy,Undergraduate
+Cassandra Chen,22992.0,2024.0,Female,Biology,Mathematics,Graduate
+Beverly Massey,22993.0,2004.0,Male,Social Sciences,Economics,Undergraduate
+John Mitchell,22994.0,2019.0,Female,Mathematics,Engineering,Graduate
+Nicole Palmer,22995.0,2022.0,Female,Finance,BioChem,Undergraduate
+Emily Powell,22996.0,2004.0,Male,Physics,Social Sciences,Graduate
+Susan Thompson,22997.0,2014.0,Female,Social Sciences,Social Sciences,Graduate
+Dr. Randy Hamilton,22998.0,2017.0,Female,Finance,Accounting and Finance,Undergraduate
+Deanna Hudson,22999.0,2016.0,Male,Social Sciences,Engineering,Graduate
+Alyssa Collins,23000.0,2010.0,Male,Finance,Mathematics,Graduate

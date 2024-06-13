@@ -1,0 +1,102 @@
+teacherID,name,years_of_experience,facultytype,age,highest_qualification,department_name,years_at_IBA,research_area_name
+1.0,James Vega,38,Full-Time,48.0,PhD,Business Administration,24.0,Profound contextually-based service-desk
+2.0,Sabrina Howe,38,Full-Time,56.0,PhD,Mathematics,24.0,Seamless modular project
+3.0,James Sawyer,15,Full-Time,51.0,PhD,Biology,13.0,Compatible empowering knowledgebase
+4.0,Melissa Pruitt,28,Full-Time,34.0,Masters,Finance,21.0,Synchronized real-time protocol
+5.0,Jeremy Hampton,24,Visiting,41.0,PhD,Mathematics,16.0,Profound contextually-based service-desk
+6.0,Kevin Sullivan,13,Full-Time,48.0,PhD,Biology,8.0,Seamless modular project
+7.0,Kevin Clark,3,Full-Time,58.0,PhD,Finance,1.0,Multi-layered radical middleware
+8.0,James Evans,27,Full-Time,56.0,Masters,Mathematics,13.0,Profound contextually-based service-desk
+9.0,Mark Perez,6,Full-Time,45.0,Masters,Economics,3.0,Cloned 5thgeneration project
+10.0,Debra Martinez,18,Full-Time,57.0,PhD,Finance,16.0,Customizable 5thgeneration leverage
+11.0,Peter Hicks,7,Full-Time,48.0,PhD,Chemistry,6.0,Persevering encompassing array
+12.0,Wendy Williams,26,Full-Time,52.0,PhD,Economics,21.0,Phased needs-based forecast
+13.0,Alicia Davis,22,Visiting,30.0,PhD,Economics,19.0,Cloned 5thgeneration project
+14.0,John Santiago,2,Visiting,57.0,PhD,Computer Science,1.0,Customizable 5thgeneration leverage
+15.0,Ashley Peterson,19,Full-Time,58.0,Masters,Chemistry,9.0,Compatible empowering knowledgebase
+16.0,Peter Newton,17,Visiting,60.0,Masters,Physics,10.0,Profound contextually-based service-desk
+17.0,Lacey Clay,17,Visiting,40.0,PhD,Finance,3.0,Versatile full-range knowledge user
+18.0,Yvonne Cruz,26,Full-Time,45.0,Masters,Biology,13.0,Persevering encompassing array
+19.0,Charles Davis,14,Visiting,41.0,Masters,Biology,6.0,Profound contextually-based service-desk
+20.0,Scott Combs,12,Full-Time,37.0,PhD,Mathematics,7.0,Phased needs-based forecast
+21.0,Kristina Young,13,Full-Time,53.0,Masters,Chemistry,2.0,Persevering encompassing array
+22.0,Craig Gonzales,10,Visiting,46.0,PhD,Mathematics,7.0,Phased needs-based forecast
+23.0,Jason Bailey,28,Full-Time,36.0,Masters,Economics,20.0,Persevering encompassing array
+24.0,Dr. Catherine Norton,36,Visiting,53.0,PhD,Social Sciences,24.0,Compatible empowering knowledgebase
+25.0,Joshua Estes,19,Full-Time,56.0,PhD,Business Administration,19.0,Phased needs-based forecast
+26.0,Brittany Pacheco,27,Full-Time,50.0,PhD,Computer Science,13.0,Persevering encompassing array
+27.0,Bobby Lutz,21,Full-Time,46.0,Masters,Mathematics,14.0,Compatible empowering knowledgebase
+28.0,Patricia Stephens,24,Full-Time,30.0,Masters,Physics,15.0,Versatile full-range knowledge user
+29.0,Shari Rocha,31,Visiting,55.0,PhD,Mathematics,17.0,Persevering encompassing array
+30.0,Lisa Sawyer,7,Visiting,30.0,Masters,Mathematics,3.0,Phased needs-based forecast
+31.0,Jason Thomas,15,Full-Time,31.0,PhD,Social Sciences,10.0,Compatible empowering knowledgebase
+32.0,Krista Gibson,27,Full-Time,57.0,PhD,Economics,24.0,Profound contextually-based service-desk
+33.0,Karen Kennedy,29,Full-Time,41.0,PhD,Mathematics,21.0,Phased needs-based forecast
+34.0,Charles Pittman,16,Full-Time,60.0,Masters,Business Administration,3.0,Customizable 5thgeneration leverage
+35.0,Adam Lozano,25,Visiting,50.0,Masters,Economics,16.0,Multi-layered radical middleware
+36.0,Carlos Gonzales,17,Visiting,45.0,Masters,Physics,6.0,Cloned 5thgeneration project
+37.0,Heather Bennett,20,Visiting,57.0,Masters,Economics,14.0,Persevering encompassing array
+38.0,Elizabeth Benjamin,7,Visiting,43.0,Masters,Physics,6.0,Profound contextually-based service-desk
+39.0,Zoe Wilson,20,Full-Time,54.0,Masters,Economics,6.0,Multi-layered radical middleware
+40.0,Kyle Allen,34,Full-Time,35.0,PhD,Business Administration,22.0,Synchronized real-time protocol
+41.0,Marvin Smith,17,Full-Time,43.0,Masters,Physics,8.0,Compatible empowering knowledgebase
+42.0,Angel Coleman,26,Full-Time,60.0,PhD,Economics,14.0,Persevering encompassing array
+43.0,Kelsey Barton,22,Full-Time,45.0,PhD,Mathematics,10.0,Cloned 5thgeneration project
+44.0,Alexis Gray,29,Visiting,36.0,Masters,Chemistry,24.0,Persevering encompassing array
+45.0,Stacy Rose,12,Full-Time,31.0,Masters,Finance,11.0,Profound contextually-based service-desk
+46.0,Brian Humphrey,7,Visiting,53.0,PhD,Mathematics,7.0,Multi-layered radical middleware
+47.0,Kristen Willis,29,Visiting,49.0,PhD,Finance,15.0,Cloned 5thgeneration project
+48.0,Jason Giles,25,Full-Time,47.0,Masters,Finance,19.0,Profound contextually-based service-desk
+49.0,Amber Mcgee,20,Visiting,44.0,Masters,Chemistry,19.0,Profound contextually-based service-desk
+50.0,Donald Crawford,14,Full-Time,37.0,Masters,Economics,1.0,Compatible empowering knowledgebase
+51.0,Renee Peck,25,Full-Time,30.0,Masters,Biology,22.0,Cloned 5thgeneration project
+52.0,Amy Coleman,16,Full-Time,47.0,PhD,Finance,14.0,Versatile full-range knowledge user
+53.0,Luke Smith,9,Full-Time,59.0,PhD,Mathematics,9.0,Versatile full-range knowledge user
+54.0,Lindsey Bond,19,Full-Time,44.0,Masters,Physics,11.0,Compatible empowering knowledgebase
+55.0,Lauren Ross,16,Full-Time,30.0,Masters,Business Administration,12.0,Profound contextually-based service-desk
+56.0,Stanley Navarro,16,Full-Time,44.0,PhD,Economics,11.0,Customizable 5thgeneration leverage
+57.0,Melissa Jones,10,Visiting,46.0,PhD,Finance,8.0,Multi-layered radical middleware
+58.0,Kelly Vasquez,22,Full-Time,55.0,Masters,Biology,19.0,Customizable 5thgeneration leverage
+59.0,Tyler Dickson,15,Visiting,55.0,PhD,Economics,15.0,Persevering encompassing array
+60.0,Laura Strickland,19,Full-Time,31.0,Masters,Biology,7.0,Multi-layered radical middleware
+61.0,Bryan Garrison,21,Visiting,44.0,Masters,Finance,7.0,Customizable 5thgeneration leverage
+62.0,Christina Bennett,28,Full-Time,52.0,PhD,Economics,21.0,Persevering encompassing array
+63.0,William Davis,9,Visiting,59.0,PhD,Economics,7.0,Profound contextually-based service-desk
+64.0,James Sanchez,21,Full-Time,33.0,PhD,Finance,11.0,Synchronized real-time protocol
+65.0,Miss Jennifer Frank,22,Full-Time,50.0,PhD,Physics,19.0,Compatible empowering knowledgebase
+66.0,Steven Gibson,24,Full-Time,50.0,PhD,Economics,13.0,Seamless modular project
+67.0,Sean Jones,14,Visiting,50.0,PhD,Chemistry,12.0,Multi-layered radical middleware
+68.0,Melissa Curtis,30,Full-Time,33.0,Masters,Physics,23.0,Customizable 5thgeneration leverage
+69.0,Andrea Ramos,15,Visiting,38.0,PhD,Mathematics,13.0,Synchronized real-time protocol
+70.0,Susan Oconnor,20,Visiting,55.0,Masters,Finance,14.0,Seamless modular project
+71.0,John Mullins,26,Full-Time,49.0,PhD,Business Administration,23.0,Multi-layered radical middleware
+72.0,Brian Washington,21,Full-Time,37.0,Masters,Physics,8.0,Customizable 5thgeneration leverage
+73.0,Nicholas Johnson,33,Visiting,44.0,PhD,Chemistry,19.0,Phased needs-based forecast
+74.0,Karen Gordon,28,Full-Time,48.0,Masters,Biology,21.0,Phased needs-based forecast
+75.0,Wyatt Harvey,12,Visiting,43.0,Masters,Social Sciences,5.0,Multi-layered radical middleware
+76.0,Brandon Morrison,34,Full-Time,37.0,Masters,Mathematics,22.0,Persevering encompassing array
+77.0,Todd Noble,18,Visiting,42.0,Masters,Chemistry,7.0,Multi-layered radical middleware
+78.0,Jacqueline Williamson,22,Full-Time,45.0,Masters,Economics,11.0,Customizable 5thgeneration leverage
+79.0,Aaron Garcia,17,Full-Time,54.0,PhD,Economics,5.0,Persevering encompassing array
+80.0,Lisa Harper,9,Visiting,59.0,PhD,Physics,8.0,Synchronized real-time protocol
+81.0,Derek Ball,16,Full-Time,51.0,PhD,Biology,1.0,Seamless modular project
+82.0,Madeline Hernandez,16,Visiting,52.0,Masters,Computer Science,8.0,Persevering encompassing array
+83.0,Michael Maxwell,23,Full-Time,36.0,PhD,Finance,22.0,Synchronized real-time protocol
+84.0,Hannah Bates,33,Visiting,45.0,Masters,Social Sciences,18.0,Multi-layered radical middleware
+85.0,Katrina Lawrence,7,Full-Time,60.0,PhD,Finance,1.0,Customizable 5thgeneration leverage
+86.0,Alexis Lee,22,Visiting,44.0,PhD,Computer Science,9.0,Phased needs-based forecast
+87.0,David Farmer,28,Visiting,57.0,PhD,Social Sciences,21.0,Versatile full-range knowledge user
+88.0,Bonnie Barr,29,Full-Time,45.0,Masters,Computer Science,21.0,Synchronized real-time protocol
+89.0,Kimberly Clark,28,Full-Time,40.0,PhD,Computer Science,18.0,Synchronized real-time protocol
+90.0,Olivia Campbell,2,Visiting,34.0,Masters,Mathematics,2.0,Persevering encompassing array
+91.0,Courtney Sanders,13,Visiting,55.0,PhD,Biology,4.0,Synchronized real-time protocol
+92.0,Melissa Oneal,25,Full-Time,57.0,PhD,Chemistry,24.0,Seamless modular project
+93.0,Matthew Harper,15,Full-Time,58.0,Masters,Chemistry,2.0,Seamless modular project
+94.0,Sheila Short,9,Full-Time,30.0,Masters,Physics,5.0,Persevering encompassing array
+95.0,Alicia Russell,19,Full-Time,35.0,Masters,Economics,7.0,Profound contextually-based service-desk
+96.0,Elizabeth Lowe,37,Full-Time,31.0,Masters,Economics,24.0,Compatible empowering knowledgebase
+97.0,Rita Young,19,Full-Time,47.0,PhD,Chemistry,17.0,Phased needs-based forecast
+98.0,Tina Douglas,24,Visiting,60.0,PhD,Computer Science,14.0,Cloned 5thgeneration project
+99.0,Joseph Russell,27,Full-Time,49.0,PhD,Mathematics,23.0,Customizable 5thgeneration leverage
+101.0,Dr. Sarah Johnson,5,Full-Time,38.0,PhD,Engineering,7.0,Robotics
+102.0,Dr. Adam Miles,5,Full-Time,38.0,PhD,Engineering,7.0,Robotics
